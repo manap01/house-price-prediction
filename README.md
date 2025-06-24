@@ -319,7 +319,7 @@ Proyek ini dikembangkan untuk keperluan edukasi dan portfolio. Silakan gunakan d
 **Hanif Maulana Arrasyid**
 - 🐙 GitHub: [@manap01](https://github.com/manap01)
 - 📧 Email: hanifmaulanaarrasyid@gmail.com
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/hanif-maulana-arrasyid)
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/hanif-maulana-arrasyid](https://www.linkedin.com/in/hanif-maulana-arrasyid-ab8a36291/))
 - 🌐 Portfolio: [View my work](https://github.com/manap01)
 
 ## 🤝 Kontribusi
