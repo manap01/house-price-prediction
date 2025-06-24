@@ -109,45 +109,18 @@ Dataset dibuat secara sintetis menggunakan Python dengan karakteristik yang real
 
 ## 📈 Hasil Visualisasi
 
-Setelah menjalankan `python main.py`, proyek menghasilkan 8 visualisasi analisis:
+Proyek ini menghasilkan analisis visual komprehensif setelah menjalankan `python main.py`:
 
-<div align="center">
-
-### 1. Correlation Matrix
-<img src="reports/figures/correlation_matrix.png" width="400">
-
-*Heatmap korelasi antar fitur untuk identifikasi multicollinearity*
-
-### 2. Feature Importance Analysis
-<img src="reports/figures/feature_importance.png" width="400">
-
-*Ranking kepentingan fitur individual*
-
-<img src="reports/figures/model_feature_importance.png" width="400">
-
-*Perbandingan feature importance antar model*
-
-### 3. Model Performance
-<img src="reports/figures/model_comparison.png" width="400">
-
-*Perbandingan performa model (R², RMSE, MAE)*
-
-### 4. Error Analysis
-<img src="reports/figures/error_analysis.png" width="400">
-
-*Distribusi error dan outlier patterns*
-
-### 5. Best Model Analysis (Gradient Boosting)
-<img src="reports/figures/gradient_boosting_tuned_predictions.png" width="350">
-<img src="reports/figures/gradient_boosting_tuned_residuals.png" width="350">
-
-*Actual vs Predicted & Residual Analysis*
-
-<img src="reports/figures/gradient_boosting_tuned_learning_curves.png" width="400">
-
-*Learning curves untuk bias-variance analysis*
-
-</div>
+| Analisis | Visualisasi | Deskripsi |
+|----------|-------------|-----------|
+| **Korelasi Data** | <img src="reports/figures/correlation_matrix.png" width="200"> | Heatmap korelasi antar fitur |
+| **Feature Importance** | <img src="reports/figures/feature_importance.png" width="200"> | Ranking kepentingan fitur |
+| **Model Comparison** | <img src="reports/figures/model_comparison.png" width="200"> | Perbandingan performa model |
+| **Feature Across Models** | <img src="reports/figures/model_feature_importance.png" width="200"> | Feature importance antar model |
+| **Error Analysis** | <img src="reports/figures/error_analysis.png" width="200"> | Distribusi error dan outliers |
+| **Predictions** | <img src="reports/figures/gradient_boosting_tuned_predictions.png" width="200"> | Actual vs Predicted values |
+| **Residuals** | <img src="reports/figures/gradient_boosting_tuned_residuals.png" width="200"> | Analisis residual model |
+| **Learning Curves** | <img src="reports/figures/gradient_boosting_tuned_learning_curves.png" width="200"> | Bias-variance analysis |
 
 ## 🛠️ Teknologi yang Digunakan
 
