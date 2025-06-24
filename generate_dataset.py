@@ -36,7 +36,7 @@ def generate_house_data(n_samples=1000):
         parkir = np.random.choice(['Ya', 'Tidak'], p=[0.8, 0.2])
         kolam_renang = np.random.choice(['Ya', 'Tidak'], p=[0.3, 0.7])
 
-        base_price = 500
+        base_price = 900
         price = base_price
         price += luas_tanah * 3
         price += kamar_tidur * 50
