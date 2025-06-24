@@ -199,7 +199,7 @@ Proyek ini dikembangkan untuk keperluan edukasi dan portfolio. Silakan gunakan d
 ## 👨‍💻 Kontributor
 
 **[Nama Anda]**
-- GitHub: [@[username]](https://github.com/[username])
+- GitHub: [@[username]]([https://github.com/](https://github.com/manap01)[username])
 - Email: [email@example.com]
 
 ## 🤝 Kontribusi
