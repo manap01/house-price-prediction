@@ -111,20 +111,21 @@ Dataset dibuat secara sintetis menggunakan Python dengan karakteristik yang real
 
 *Note: Hasil dapat bervariasi tergantung pada data dan parameter yang digunakan*
 
-## 📈 Hasil Visualisasi
+## 📈 Hasil Visualisasi  
+[Lihat laporan lengkap di final_report.md](https://github.com/manap01/house-price-prediction/blob/main/reports/final_report.md)
 
 Proyek ini menghasilkan analisis visual komprehensif setelah menjalankan `python main.py`:
 
-| Analisis | Visualisasi | Deskripsi |
-|----------|-------------|-----------|
-| **Korelasi Data** | <img src="reports/figures/correlation_matrix.png" width="200"> | Heatmap korelasi antar fitur |
-| **Feature Importance** | <img src="reports/figures/feature_importance.png" width="200"> | Ranking kepentingan fitur |
-| **Model Comparison** | <img src="reports/figures/model_comparison.png" width="200"> | Perbandingan performa model |
-| **Feature Across Models** | <img src="reports/figures/model_feature_importance.png" width="200"> | Feature importance antar model |
-| **Error Analysis** | <img src="reports/figures/error_analysis.png" width="200"> | Distribusi error dan outliers |
-| **Predictions** | <img src="reports/figures/gradient_boosting_tuned_predictions.png" width="200"> | Actual vs Predicted values |
-| **Residuals** | <img src="reports/figures/gradient_boosting_tuned_residuals.png" width="200"> | Analisis residual model |
-| **Learning Curves** | <img src="reports/figures/gradient_boosting_tuned_learning_curves.png" width="200"> | Bias-variance analysis |
+| Analisis                | Visualisasi                                                                 | Deskripsi                                |
+|-------------------------|------------------------------------------------------------------------------|------------------------------------------|
+| **Korelasi Data**       | <img src="reports/figures/correlation_matrix.png" width="300">              | Heatmap korelasi antar fitur              |
+| **Feature Importance**  | <img src="reports/figures/feature_importance.png" width="300">              | Ranking kepentingan fitur                 |
+| **Model Comparison**    | <img src="reports/figures/model_comparison.png" width="300">                | Perbandingan performa model               |
+| **Feature Across Models** | <img src="reports/figures/model_feature_importance.png" width="300">      | Feature importance antar model            |
+| **Error Analysis**      | <img src="reports/figures/error_analysis.png" width="300">                  | Distribusi error dan outliers             |
+| **Predictions**         | <img src="reports/figures/gradient_boosting_tuned_predictions.png" width="300"> | Actual vs Predicted values            |
+| **Residuals**           | <img src="reports/figures/gradient_boosting_tuned_residuals.png" width="300"> | Analisis residual model               |
+| **Learning Curves**     | <img src="reports/figures/gradient_boosting_tuned_learning_curves.png" width="300"> | Bias-variance analysis              |
 
 ## 🛠️ Teknologi yang Digunakan
 
