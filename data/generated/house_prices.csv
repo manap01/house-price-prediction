@@ -1,0 +1,1001 @@
+luas_tanah,kamar_tidur,kamar_mandi,lantai,umur_bangunan,lokasi,jarak_pusat_kota,parkir,kolam_renang,harga
+139.9,4,2,1,1.4,Depok,23.9,Ya,Ya,938.65
+126.6,4,3,1,38.8,Jakarta Pusat,5.5,Ya,Ya,1332.24
+79.5,3,2,1,12.3,Jakarta Timur,13.3,Ya,Tidak,925.14
+115.8,4,2,1,22.8,Jakarta Selatan,4.7,Ya,Ya,1582.63
+158.0,5,1,1,1.6,Jakarta Barat,18.3,Ya,Tidak,1091.91
+127.9,6,3,2,18.0,Depok,31.3,Tidak,Tidak,980.77
+130.5,4,4,2,2.6,Jakarta Pusat,8.3,Ya,Tidak,1601.88
+88.2,2,1,2,12.5,Jakarta Utara,12.8,Tidak,Tidak,878.81
+84.1,3,2,2,7.2,Tangerang,24.1,Tidak,Tidak,691.18
+94.2,4,2,2,5.4,Bogor,20.1,Ya,Ya,850.21
+117.6,4,2,1,7.4,Jakarta Barat,15.8,Tidak,Tidak,1117.46
+134.4,4,2,1,4.9,Jakarta Barat,12.4,Tidak,Tidak,1254.59
+91.9,3,2,2,15.8,Bekasi,22.4,Ya,Tidak,751.96
+113.9,3,2,1,2.0,Depok,17.5,Tidak,Tidak,771.55
+119.3,3,2,1,7.5,Jakarta Selatan,1.7,Ya,Ya,1880.74
+62.9,4,2,1,6.4,Bekasi,34.1,Ya,Tidak,538.07
+176.1,4,2,1,14.4,Tangerang,13.8,Ya,Tidak,832.21
+92.7,4,3,1,0.8,Bogor,17.6,Tidak,Ya,870.58
+88.7,5,3,1,8.6,Bogor,22.4,Ya,Ya,858.13
+126.1,3,2,2,15.0,Jakarta Barat,13.0,Ya,Ya,1407.32
+131.7,2,1,1,9.4,Bogor,19.3,Ya,Ya,645.28
+119.0,3,3,2,2.9,Jakarta Timur,6.7,Ya,Tidak,1263.32
+156.4,3,2,2,8.8,Jakarta Pusat,4.9,Ya,Tidak,1645.89
+139.3,5,4,2,3.7,Bogor,24.0,Ya,Tidak,782.39
+82.0,3,2,1,4.0,Tangerang,20.2,Ya,Tidak,684.8
+87.6,6,1,1,16.8,Jakarta Pusat,5.9,Ya,Tidak,1758.22
+146.3,2,1,2,1.7,Depok,13.5,Ya,Tidak,812.6
+150.4,3,1,1,0.3,Bogor,26.2,Ya,Ya,813.31
+134.2,3,3,1,26.9,Bekasi,10.0,Ya,Ya,1114.94
+193.7,4,3,3,5.8,Jakarta Timur,9.4,Ya,Ya,1863.73
+140.2,3,1,1,2.3,Tangerang,31.9,Ya,Tidak,743.99
+186.1,4,2,1,3.5,Jakarta Utara,10.6,Ya,Ya,1345.95
+148.0,3,2,2,0.4,Tangerang,29.8,Ya,Ya,1213.72
+62.6,4,3,2,1.4,Depok,27.8,Tidak,Tidak,695.37
+78.6,5,3,2,13.7,Depok,26.6,Tidak,Ya,828.24
+128.3,3,3,1,13.5,Bogor,40.6,Ya,Tidak,487.63
+116.4,6,2,1,6.7,Jakarta Timur,10.0,Tidak,Tidak,1235.76
+96.3,3,3,2,4.5,Bekasi,21.7,Tidak,Tidak,669.97
+99.1,5,2,1,18.9,Bogor,32.6,Ya,Tidak,506.16
+143.8,4,2,1,3.2,Jakarta Utara,15.1,Ya,Ya,1391.86
+92.0,4,2,2,3.5,Jakarta Selatan,5.0,Tidak,Tidak,1524.14
+123.3,5,2,1,4.0,Jakarta Selatan,7.3,Tidak,Tidak,1468.15
+93.4,2,3,1,4.4,Jakarta Timur,17.4,Ya,Tidak,857.1
+108.5,2,1,1,8.4,Jakarta Pusat,2.8,Ya,Tidak,1492.29
+122.3,3,3,3,6.5,Jakarta Utara,8.6,Ya,Tidak,1234.32
+131.4,4,1,1,2.0,Jakarta Pusat,7.4,Tidak,Ya,2106.64
+115.6,4,2,1,5.0,Jakarta Selatan,7.0,Ya,Tidak,1438.53
+60.0,2,2,1,7.4,Jakarta Timur,15.0,Ya,Tidak,841.61
+117.1,5,4,1,7.2,Bogor,22.7,Tidak,Tidak,595.0
+169.5,3,2,1,16.0,Jakarta Pusat,8.3,Tidak,Tidak,1644.68
+157.0,3,2,1,2.3,Jakarta Barat,15.3,Ya,Tidak,1017.63
+171.1,3,2,1,11.8,Jakarta Selatan,5.3,Ya,Tidak,1806.8
+79.2,2,3,2,9.7,Jakarta Timur,10.9,Tidak,Tidak,896.28
+129.6,4,2,1,10.4,Bogor,37.0,Ya,Tidak,534.44
+60.0,3,4,1,3.2,Jakarta Timur,11.8,Ya,Tidak,732.86
+180.0,4,1,2,4.2,Jakarta Timur,13.9,Ya,Ya,1490.04
+99.9,3,1,1,6.1,Jakarta Selatan,7.1,Ya,Tidak,1218.0
+109.1,3,2,1,1.4,Jakarta Pusat,6.7,Ya,Ya,1608.68
+98.1,3,2,1,5.0,Depok,15.2,Ya,Tidak,726.29
+146.0,2,3,1,4.0,Bogor,18.8,Ya,Tidak,660.31
+123.0,3,2,1,3.5,Bogor,18.0,Ya,Ya,990.55
+160.6,4,2,1,2.7,Tangerang,26.8,Ya,Tidak,933.46
+139.9,2,2,1,5.4,Depok,23.4,Tidak,Ya,636.47
+147.4,6,1,1,27.9,Jakarta Barat,19.2,Tidak,Tidak,1069.04
+60.0,5,2,3,9.9,Jakarta Barat,22.5,Ya,Ya,1340.62
+83.8,3,2,1,5.2,Jakarta Timur,11.4,Ya,Ya,1049.42
+95.9,4,3,1,5.1,Bekasi,31.1,Ya,Ya,849.2
+145.8,3,3,3,1.8,Jakarta Timur,12.3,Ya,Tidak,1298.77
+133.5,3,1,1,13.5,Jakarta Barat,10.4,Ya,Tidak,1019.57
+196.3,4,3,2,6.2,Jakarta Pusat,5.7,Ya,Tidak,2106.66
+129.4,3,3,2,3.3,Jakarta Barat,15.1,Ya,Tidak,1371.2
+123.3,4,1,1,2.3,Bekasi,22.2,Ya,Tidak,658.42
+103.7,4,2,1,7.4,Depok,27.1,Ya,Ya,946.34
+158.9,4,2,1,2.3,Jakarta Utara,7.3,Ya,Ya,1320.53
+150.5,3,1,1,10.4,Jakarta Barat,12.9,Tidak,Tidak,1009.75
+172.1,2,1,1,14.7,Bekasi,22.4,Ya,Ya,834.53
+101.1,3,2,2,3.8,Jakarta Utara,15.8,Ya,Tidak,1104.38
+60.0,5,2,1,10.7,Jakarta Pusat,4.1,Tidak,Ya,1568.25
+72.2,2,2,2,2.6,Jakarta Selatan,5.6,Ya,Ya,1414.13
+113.4,6,2,1,0.6,Bekasi,35.8,Ya,Tidak,665.1
+62.7,5,2,1,10.0,Jakarta Selatan,7.9,Ya,Tidak,1448.72
+60.0,3,1,2,23.4,Jakarta Timur,7.6,Ya,Ya,1213.66
+157.4,2,2,1,8.9,Depok,35.2,Ya,Tidak,687.51
+77.9,3,1,1,10.2,Depok,11.5,Ya,Tidak,571.49
+147.6,3,3,2,9.7,Jakarta Pusat,5.9,Tidak,Tidak,1654.4
+63.7,4,2,2,4.2,Bogor,11.0,Tidak,Tidak,534.48
+158.9,4,2,1,2.5,Depok,24.8,Ya,Tidak,870.16
+72.0,3,1,2,9.4,Jakarta Utara,12.8,Ya,Tidak,808.98
+161.2,3,1,1,18.4,Tangerang,28.8,Ya,Ya,913.79
+211.9,4,3,1,11.8,Jakarta Selatan,6.0,Ya,Tidak,1758.34
+95.5,3,2,2,2.8,Jakarta Timur,6.4,Tidak,Tidak,850.52
+115.0,4,1,2,15.0,Jakarta Selatan,4.0,Ya,Tidak,1900.15
+186.2,4,2,1,0.6,Jakarta Timur,9.2,Ya,Tidak,1197.96
+110.1,5,1,3,4.7,Depok,30.5,Ya,Tidak,938.79
+121.6,5,2,2,0.4,Bekasi,25.1,Tidak,Tidak,603.84
+108.8,3,3,1,1.0,Bekasi,30.3,Ya,Tidak,673.04
+207.6,4,2,1,5.2,Jakarta Timur,13.4,Ya,Tidak,1265.88
+125.4,3,2,2,3.1,Jakarta Selatan,1.0,Tidak,Tidak,1746.75
+130.2,2,1,1,21.6,Bekasi,24.8,Ya,Ya,944.69
+94.0,3,2,1,3.3,Jakarta Barat,8.5,Ya,Tidak,1131.42
+79.8,3,1,1,35.2,Bogor,16.6,Ya,Tidak,389.32
+152.1,4,4,2,7.3,Jakarta Selatan,7.3,Ya,Ya,2374.36
+99.3,3,3,1,0.5,Bekasi,20.2,Tidak,Tidak,698.58
+97.2,4,1,2,2.0,Depok,7.0,Ya,Tidak,767.4
+117.2,5,3,1,2.3,Tangerang,23.5,Ya,Tidak,772.71
+119.7,3,2,1,15.2,Depok,25.3,Tidak,Tidak,653.58
+141.8,5,3,1,16.2,Jakarta Pusat,9.0,Ya,Ya,1693.86
+90.3,5,1,2,1.7,Jakarta Utara,10.5,Ya,Ya,1199.3
+136.7,4,1,1,7.7,Jakarta Pusat,5.8,Ya,Ya,1792.56
+127.6,3,1,1,14.7,Jakarta Utara,10.2,Ya,Tidak,976.31
+125.3,3,2,1,16.4,Jakarta Barat,9.2,Ya,Tidak,1005.78
+113.3,5,2,2,2.3,Bekasi,11.4,Tidak,Tidak,770.26
+70.8,4,2,1,0.7,Jakarta Barat,11.3,Ya,Ya,1295.63
+116.0,3,2,1,2.6,Jakarta Timur,7.5,Ya,Tidak,913.77
+134.2,4,2,1,6.3,Bogor,22.7,Tidak,Tidak,602.18
+137.9,4,2,1,0.3,Jakarta Timur,11.4,Ya,Tidak,979.8
+63.0,4,2,1,8.4,Jakarta Utara,14.4,Ya,Tidak,803.76
+60.0,2,1,1,5.2,Tangerang,33.2,Tidak,Tidak,369.32
+119.0,3,2,3,1.2,Tangerang,20.4,Ya,Tidak,907.49
+121.1,3,2,1,3.5,Jakarta Pusat,4.1,Ya,Tidak,1755.67
+145.3,5,1,2,24.2,Jakarta Timur,8.1,Tidak,Tidak,1296.87
+180.9,3,3,2,7.9,Jakarta Barat,16.2,Ya,Tidak,1311.24
+172.7,3,2,1,10.5,Jakarta Selatan,5.4,Ya,Ya,1645.92
+98.8,4,2,1,6.5,Jakarta Selatan,2.4,Ya,Tidak,1631.68
+113.0,3,2,1,14.7,Jakarta Pusat,3.5,Tidak,Tidak,1352.81
+183.0,3,2,3,0.3,Jakarta Pusat,10.2,Ya,Tidak,2200.74
+180.4,4,2,3,2.7,Jakarta Timur,18.6,Ya,Tidak,1302.41
+135.8,4,3,1,2.2,Jakarta Selatan,5.6,Ya,Ya,1794.19
+113.7,4,2,1,1.4,Bogor,33.5,Tidak,Ya,605.57
+166.4,4,1,3,4.8,Jakarta Timur,4.3,Ya,Tidak,1327.07
+113.5,4,3,1,3.6,Bogor,15.8,Ya,Tidak,737.41
+127.1,4,2,2,6.5,Jakarta Barat,11.7,Ya,Tidak,1271.7
+149.3,3,2,1,1.3,Jakarta Utara,11.7,Ya,Tidak,1115.58
+136.0,3,2,1,6.1,Bekasi,17.5,Ya,Tidak,759.34
+131.1,3,3,1,9.4,Bekasi,19.8,Tidak,Tidak,661.29
+126.7,4,1,2,20.1,Jakarta Pusat,6.3,Ya,Tidak,1451.78
+132.1,6,1,3,4.2,Bogor,19.0,Ya,Ya,1032.52
+88.6,4,3,1,18.5,Bogor,31.3,Ya,Ya,651.01
+66.4,4,2,1,3.8,Bogor,34.3,Ya,Tidak,435.66
+118.6,4,1,2,11.4,Bogor,32.9,Ya,Tidak,551.11
+64.4,4,2,2,11.6,Tangerang,11.8,Ya,Tidak,872.13
+123.5,3,3,1,24.7,Jakarta Barat,11.2,Ya,Tidak,1093.72
+85.2,3,3,1,3.0,Jakarta Barat,8.1,Ya,Tidak,945.75
+122.5,5,3,1,2.8,Jakarta Pusat,1.8,Tidak,Tidak,1846.51
+129.0,2,2,3,7.4,Tangerang,35.9,Ya,Tidak,833.86
+166.4,3,2,2,11.8,Jakarta Pusat,6.5,Ya,Tidak,1718.32
+192.8,2,2,1,7.1,Jakarta Pusat,3.3,Ya,Tidak,1780.78
+114.8,2,2,2,6.3,Bogor,36.7,Ya,Tidak,430.38
+136.6,3,2,2,9.4,Bekasi,18.8,Ya,Tidak,639.18
+161.8,5,3,1,8.3,Jakarta Barat,9.7,Ya,Tidak,1237.54
+121.4,2,3,1,6.2,Tangerang,18.8,Ya,Tidak,729.41
+60.0,3,1,1,3.6,Jakarta Timur,11.0,Ya,Tidak,943.19
+80.4,4,1,1,11.3,Jakarta Pusat,6.3,Ya,Tidak,1032.32
+100.0,3,4,1,10.7,Depok,34.7,Ya,Tidak,612.81
+127.7,3,3,2,9.9,Jakarta Barat,10.8,Ya,Ya,1344.49
+110.4,5,2,1,4.0,Bekasi,28.6,Ya,Tidak,638.86
+121.0,3,2,2,9.0,Tangerang,5.3,Ya,Ya,1057.87
+159.2,2,1,1,25.2,Jakarta Selatan,7.2,Ya,Tidak,1407.66
+119.0,4,3,1,5.6,Bogor,31.5,Tidak,Tidak,516.89
+77.9,4,2,1,12.0,Jakarta Barat,8.2,Ya,Ya,1187.31
+181.2,3,1,2,4.9,Jakarta Selatan,7.4,Ya,Tidak,1518.31
+155.3,3,1,1,12.2,Jakarta Timur,14.2,Ya,Tidak,927.04
+90.7,3,1,2,15.1,Jakarta Selatan,3.5,Ya,Tidak,1189.65
+111.0,3,2,2,10.6,Tangerang,23.1,Ya,Tidak,693.01
+80.3,4,2,2,7.9,Jakarta Utara,14.3,Tidak,Tidak,852.45
+118.8,4,2,2,0.8,Jakarta Barat,10.4,Ya,Tidak,1363.01
+160.5,3,4,1,0.9,Depok,27.6,Ya,Tidak,688.81
+103.7,5,1,2,5.0,Bekasi,30.9,Ya,Tidak,714.01
+121.3,3,3,1,9.1,Depok,19.0,Ya,Tidak,671.27
+172.0,3,2,2,8.7,Jakarta Timur,16.7,Ya,Ya,1499.15
+159.8,4,2,1,1.0,Jakarta Barat,9.0,Ya,Tidak,1251.31
+121.5,6,3,1,31.3,Tangerang,31.7,Ya,Tidak,723.98
+129.2,2,2,1,3.9,Jakarta Selatan,3.2,Tidak,Ya,1567.94
+108.9,5,2,1,13.5,Bekasi,22.2,Ya,Tidak,711.07
+134.9,3,1,1,11.2,Bogor,37.8,Tidak,Ya,629.83
+116.6,4,3,1,5.6,Depok,17.2,Ya,Tidak,642.03
+85.6,3,1,1,16.8,Jakarta Utara,13.0,Ya,Tidak,782.56
+86.0,5,2,1,10.6,Bekasi,37.4,Ya,Tidak,603.5
+167.9,5,3,1,11.1,Jakarta Utara,12.3,Ya,Tidak,1183.29
+87.2,5,4,1,4.8,Jakarta Barat,9.3,Ya,Tidak,1266.49
+103.4,3,3,1,10.3,Jakarta Utara,7.3,Ya,Tidak,1194.61
+168.3,4,3,1,13.9,Jakarta Pusat,3.0,Ya,Tidak,1923.18
+123.3,3,1,2,2.2,Jakarta Barat,17.2,Ya,Tidak,1240.35
+155.3,3,1,2,5.5,Tangerang,27.4,Tidak,Ya,861.64
+148.7,4,2,2,12.2,Jakarta Timur,18.7,Ya,Tidak,1204.34
+98.7,3,2,1,0.7,Bekasi,22.8,Tidak,Tidak,516.81
+81.8,4,4,1,4.5,Bogor,17.4,Ya,Ya,750.79
+119.4,2,3,1,6.1,Jakarta Pusat,4.7,Ya,Tidak,1537.79
+77.5,5,2,2,12.4,Bogor,26.1,Ya,Tidak,598.51
+91.9,3,2,1,23.5,Bogor,20.1,Ya,Tidak,551.43
+135.0,3,2,1,12.6,Jakarta Pusat,5.1,Ya,Ya,1577.94
+60.0,3,3,2,8.8,Jakarta Selatan,4.8,Ya,Ya,1737.76
+107.9,3,4,2,5.5,Bekasi,26.8,Tidak,Tidak,719.35
+152.4,2,1,2,1.4,Bogor,37.7,Ya,Tidak,599.17
+109.3,3,2,2,3.7,Bekasi,19.4,Tidak,Tidak,682.29
+62.5,3,3,1,8.1,Bekasi,15.9,Tidak,Tidak,560.65
+200.8,3,2,1,18.2,Depok,10.4,Ya,Tidak,895.39
+107.1,4,3,1,12.8,Tangerang,18.1,Tidak,Tidak,804.25
+134.7,3,4,3,8.5,Jakarta Utara,9.5,Ya,Tidak,1380.77
+133.0,2,3,1,15.6,Jakarta Barat,13.1,Ya,Ya,1338.0
+125.4,4,2,1,0.7,Jakarta Pusat,5.2,Ya,Ya,1760.99
+60.0,4,2,2,3.5,Jakarta Utara,13.7,Ya,Ya,1207.36
+100.4,3,1,2,1.5,Jakarta Barat,13.2,Ya,Tidak,1212.51
+66.2,4,2,1,1.9,Jakarta Timur,10.0,Ya,Tidak,1051.73
+147.3,2,3,2,16.6,Bekasi,20.2,Ya,Tidak,643.63
+96.8,3,1,1,13.0,Jakarta Barat,11.8,Ya,Tidak,913.79
+135.5,6,3,2,14.6,Bekasi,19.4,Ya,Tidak,916.99
+209.4,4,2,1,1.0,Jakarta Barat,11.1,Ya,Tidak,1422.11
+152.0,3,2,2,0.4,Jakarta Barat,5.5,Tidak,Tidak,1180.96
+69.1,6,2,1,14.6,Jakarta Timur,15.4,Ya,Tidak,858.05
+87.7,3,3,1,0.3,Jakarta Timur,9.1,Tidak,Tidak,989.25
+227.5,3,2,1,11.9,Bogor,17.1,Ya,Tidak,731.74
+177.3,4,2,1,2.1,Jakarta Timur,10.9,Ya,Tidak,1427.86
+144.4,4,2,1,2.3,Jakarta Pusat,5.2,Tidak,Ya,1820.17
+60.0,3,2,1,4.7,Jakarta Barat,5.9,Ya,Tidak,921.85
+89.9,5,2,1,2.8,Bogor,18.8,Ya,Ya,783.89
+124.1,5,2,2,39.5,Jakarta Pusat,1.0,Ya,Tidak,1722.74
+150.8,3,2,1,10.1,Jakarta Utara,12.6,Ya,Ya,1183.42
+86.7,3,1,1,11.1,Jakarta Pusat,1.0,Ya,Tidak,1292.9
+180.2,4,2,2,7.3,Jakarta Selatan,4.4,Ya,Tidak,1849.96
+171.3,6,3,2,6.1,Jakarta Pusat,5.2,Ya,Tidak,2158.98
+60.6,5,1,1,15.3,Jakarta Barat,7.2,Ya,Tidak,1048.65
+175.7,5,3,2,4.5,Depok,23.0,Tidak,Ya,1114.2
+117.0,3,2,1,1.4,Bekasi,17.3,Ya,Tidak,661.13
+63.5,2,2,1,9.0,Jakarta Utara,16.9,Ya,Tidak,829.55
+201.4,3,1,3,2.1,Depok,29.4,Ya,Ya,1179.96
+116.5,3,1,2,4.9,Jakarta Utara,10.5,Tidak,Tidak,972.24
+60.0,3,4,1,0.7,Jakarta Barat,22.5,Ya,Ya,895.37
+102.7,5,3,1,5.7,Jakarta Utara,16.1,Tidak,Tidak,1086.33
+60.0,3,2,2,5.4,Jakarta Timur,14.8,Ya,Tidak,970.9
+112.4,4,1,2,9.9,Tangerang,36.5,Ya,Tidak,728.36
+138.7,4,3,1,12.5,Jakarta Utara,9.3,Tidak,Tidak,1162.23
+115.0,6,2,2,7.1,Jakarta Barat,7.3,Ya,Ya,1487.89
+175.0,4,2,1,16.1,Jakarta Selatan,9.2,Ya,Tidak,1442.4
+126.5,2,1,2,2.8,Depok,24.9,Ya,Tidak,764.76
+60.0,4,3,1,5.2,Tangerang,32.6,Ya,Ya,884.24
+165.8,3,2,3,0.1,Jakarta Timur,9.9,Ya,Tidak,1361.05
+105.7,4,1,1,22.1,Bogor,29.7,Ya,Ya,699.61
+87.2,3,2,1,3.4,Jakarta Timur,11.9,Ya,Tidak,844.09
+133.4,5,2,1,1.3,Depok,17.0,Ya,Tidak,785.99
+113.8,5,2,1,2.0,Bogor,30.6,Ya,Ya,755.77
+64.7,4,1,2,16.1,Jakarta Barat,9.4,Ya,Ya,1227.74
+153.7,5,2,1,1.2,Bekasi,29.5,Ya,Tidak,813.32
+152.5,3,2,1,1.7,Jakarta Selatan,6.9,Ya,Tidak,1430.55
+85.7,3,2,1,14.8,Jakarta Barat,16.5,Ya,Tidak,962.56
+114.5,3,4,1,9.3,Jakarta Pusat,3.3,Ya,Tidak,1676.91
+96.8,3,2,2,2.5,Jakarta Barat,8.7,Ya,Tidak,1153.97
+102.0,6,2,1,4.9,Jakarta Selatan,7.5,Ya,Tidak,1662.27
+128.8,3,3,1,16.3,Tangerang,14.4,Tidak,Ya,1035.41
+184.1,3,1,2,10.7,Tangerang,15.5,Ya,Ya,1366.59
+106.9,3,1,1,5.8,Jakarta Utara,14.4,Ya,Ya,1125.77
+123.3,2,3,1,18.9,Jakarta Barat,11.9,Tidak,Tidak,931.72
+72.8,4,3,1,29.8,Tangerang,33.9,Ya,Tidak,507.85
+127.7,3,1,1,11.9,Bekasi,15.1,Ya,Ya,740.72
+126.6,5,1,2,12.2,Bogor,25.4,Ya,Ya,873.66
+126.0,4,2,1,8.9,Jakarta Barat,14.1,Ya,Tidak,1134.11
+93.5,3,2,2,6.9,Jakarta Utara,9.6,Ya,Tidak,1074.25
+78.7,5,3,1,10.3,Bogor,27.6,Ya,Ya,777.44
+76.4,6,2,1,5.6,Jakarta Utara,11.4,Tidak,Tidak,843.62
+127.7,3,2,2,5.3,Jakarta Pusat,1.0,Ya,Ya,2107.05
+118.8,3,4,1,2.0,Jakarta Utara,21.1,Ya,Tidak,1016.59
+93.5,6,1,2,19.1,Jakarta Selatan,3.3,Tidak,Tidak,1765.25
+162.0,4,2,1,4.9,Jakarta Pusat,4.4,Ya,Tidak,1828.69
+182.5,2,1,1,20.9,Jakarta Utara,9.2,Tidak,Tidak,891.12
+113.8,2,2,2,1.0,Bogor,18.0,Ya,Tidak,620.97
+144.6,4,2,2,0.8,Jakarta Timur,11.7,Ya,Tidak,1162.89
+60.0,5,3,2,29.3,Bekasi,37.9,Ya,Ya,734.66
+112.4,3,4,1,4.6,Jakarta Timur,4.7,Tidak,Ya,1151.75
+155.2,5,2,2,13.9,Jakarta Barat,11.4,Ya,Ya,1387.88
+134.5,3,3,1,0.6,Jakarta Barat,14.7,Ya,Ya,1325.07
+156.0,3,3,1,5.0,Jakarta Utara,15.0,Ya,Tidak,1190.05
+60.0,2,4,1,2.9,Jakarta Barat,14.7,Ya,Tidak,791.76
+60.0,3,3,2,1.6,Tangerang,19.6,Ya,Ya,958.0
+182.8,3,2,1,11.2,Jakarta Selatan,5.8,Tidak,Ya,2072.48
+146.0,3,3,2,0.9,Jakarta Pusat,2.0,Ya,Ya,2126.28
+137.9,3,1,1,13.0,Bekasi,23.4,Ya,Ya,833.61
+145.7,3,1,2,8.9,Bekasi,16.1,Ya,Tidak,881.5
+60.0,3,3,1,12.2,Jakarta Timur,11.8,Ya,Tidak,852.03
+127.7,6,1,1,10.1,Tangerang,35.6,Ya,Tidak,784.07
+107.9,5,2,2,3.0,Tangerang,33.5,Ya,Tidak,860.47
+168.5,5,1,2,0.4,Jakarta Pusat,5.5,Ya,Tidak,1983.24
+68.8,5,2,2,7.4,Depok,19.4,Ya,Tidak,812.42
+102.7,3,3,2,8.9,Bekasi,23.7,Ya,Tidak,661.32
+130.4,3,2,1,31.4,Jakarta Pusat,5.2,Tidak,Tidak,1226.18
+133.6,3,2,1,7.4,Jakarta Selatan,2.4,Ya,Ya,1889.77
+68.6,6,2,1,0.6,Tangerang,24.1,Ya,Tidak,692.06
+124.6,4,3,1,6.6,Bogor,18.0,Ya,Tidak,569.92
+83.3,4,3,2,0.9,Jakarta Utara,11.1,Ya,Tidak,1126.64
+85.4,2,2,1,4.8,Jakarta Pusat,8.4,Ya,Tidak,1471.23
+147.9,3,2,1,10.9,Jakarta Selatan,5.5,Tidak,Tidak,1423.49
+102.5,4,1,1,7.6,Bogor,12.1,Ya,Tidak,626.17
+74.9,5,1,2,0.2,Jakarta Pusat,3.6,Ya,Ya,1699.77
+188.2,4,2,1,24.2,Jakarta Selatan,4.4,Tidak,Tidak,1648.15
+149.7,3,2,2,10.7,Depok,23.5,Tidak,Tidak,715.78
+60.0,3,3,2,12.4,Jakarta Utara,13.1,Ya,Tidak,998.18
+137.4,3,2,1,12.3,Jakarta Selatan,3.9,Ya,Ya,1837.18
+121.0,2,2,2,0.9,Bekasi,9.6,Ya,Ya,1051.2
+113.7,3,2,2,22.9,Jakarta Selatan,5.3,Ya,Ya,1669.43
+79.7,3,2,1,3.5,Jakarta Barat,7.5,Tidak,Tidak,1017.27
+97.4,4,2,1,2.5,Jakarta Pusat,6.3,Ya,Tidak,1489.97
+132.3,4,3,1,5.0,Bogor,7.7,Ya,Ya,698.84
+77.4,4,2,1,4.5,Bekasi,25.9,Ya,Ya,920.47
+108.8,3,1,1,5.9,Bekasi,28.4,Ya,Tidak,532.48
+92.1,6,2,1,4.3,Jakarta Pusat,8.7,Ya,Ya,1887.92
+60.0,5,2,1,1.0,Jakarta Pusat,5.0,Ya,Tidak,1519.6
+118.2,4,1,2,9.1,Jakarta Pusat,7.1,Ya,Tidak,1727.69
+109.5,4,3,2,9.6,Depok,27.9,Tidak,Tidak,706.77
+168.9,3,3,1,1.6,Jakarta Selatan,4.2,Ya,Tidak,1297.97
+84.1,2,2,1,10.9,Jakarta Barat,9.3,Ya,Ya,1245.32
+100.3,3,4,1,3.1,Jakarta Timur,12.6,Ya,Tidak,976.19
+61.9,2,2,2,3.8,Jakarta Selatan,2.2,Ya,Tidak,1358.04
+180.5,2,3,1,12.2,Bekasi,34.0,Ya,Ya,946.96
+88.0,4,2,1,1.4,Bekasi,37.1,Ya,Tidak,583.77
+136.5,4,3,1,4.3,Tangerang,36.0,Ya,Tidak,628.1
+157.7,4,2,1,4.7,Bekasi,31.9,Ya,Tidak,784.75
+76.1,3,3,2,3.1,Jakarta Utara,7.9,Ya,Ya,1325.78
+161.8,4,3,1,0.7,Jakarta Utara,14.1,Ya,Ya,1381.78
+60.5,3,2,2,13.9,Depok,28.0,Ya,Ya,809.98
+189.1,3,2,1,11.0,Jakarta Pusat,5.2,Ya,Ya,2255.27
+87.5,5,3,3,2.2,Jakarta Pusat,4.4,Ya,Ya,2369.15
+78.7,3,2,1,22.3,Jakarta Utara,16.5,Tidak,Tidak,713.26
+121.0,4,2,2,3.9,Jakarta Barat,16.2,Ya,Tidak,1255.22
+180.7,3,2,1,15.8,Jakarta Barat,17.4,Tidak,Tidak,1243.94
+105.8,3,3,2,0.4,Bogor,14.5,Ya,Tidak,731.9
+71.8,4,2,2,14.5,Jakarta Selatan,5.7,Ya,Tidak,1605.24
+154.2,5,3,3,6.1,Depok,34.5,Ya,Ya,1181.37
+103.2,4,3,1,2.1,Jakarta Pusat,5.5,Ya,Tidak,1671.5
+152.0,3,3,2,1.8,Jakarta Utara,13.0,Ya,Ya,1460.93
+147.5,4,2,2,12.0,Jakarta Barat,7.9,Ya,Tidak,1567.94
+79.8,5,2,1,12.5,Bekasi,19.7,Ya,Ya,771.91
+60.0,4,2,1,2.1,Bekasi,21.3,Ya,Tidak,630.8
+180.0,3,2,2,2.9,Depok,13.6,Ya,Ya,1261.59
+60.0,5,1,1,4.9,Bogor,21.8,Ya,Tidak,530.82
+134.7,3,2,2,36.4,Bogor,4.7,Ya,Tidak,775.54
+163.6,3,3,1,9.6,Bogor,35.3,Ya,Tidak,692.25
+123.0,4,3,1,28.1,Depok,36.8,Ya,Tidak,523.63
+96.4,3,1,2,2.7,Tangerang,18.3,Tidak,Tidak,702.1
+80.2,4,2,1,6.5,Jakarta Utara,14.1,Ya,Ya,997.21
+105.6,3,1,2,12.6,Jakarta Barat,14.2,Ya,Ya,1311.3
+60.0,3,2,1,23.7,Bekasi,17.5,Ya,Tidak,459.05
+60.0,4,1,1,4.5,Jakarta Pusat,1.0,Ya,Tidak,1569.4
+85.1,3,2,2,0.4,Jakarta Pusat,9.8,Tidak,Tidak,1510.1
+94.0,2,2,1,14.6,Jakarta Pusat,5.0,Ya,Tidak,1209.41
+75.1,3,3,2,1.7,Jakarta Pusat,2.5,Ya,Tidak,1679.54
+73.7,4,3,2,21.0,Tangerang,29.8,Ya,Ya,872.52
+171.8,4,2,1,0.2,Jakarta Timur,16.8,Ya,Ya,1626.24
+154.9,4,2,1,19.5,Jakarta Barat,6.0,Tidak,Ya,1524.3
+161.5,4,4,1,3.3,Depok,31.8,Ya,Tidak,787.68
+133.2,5,2,1,1.4,Depok,25.2,Ya,Ya,994.83
+139.4,4,2,1,8.7,Jakarta Barat,13.9,Tidak,Tidak,1297.57
+82.0,3,3,2,19.2,Bekasi,39.0,Ya,Ya,845.9
+102.6,5,2,2,13.8,Jakarta Utara,12.9,Ya,Tidak,1282.79
+151.2,3,1,1,6.3,Jakarta Pusat,1.8,Ya,Ya,1890.09
+109.7,3,3,1,9.6,Depok,11.8,Ya,Tidak,673.71
+115.1,4,2,1,31.5,Jakarta Utara,12.4,Ya,Tidak,936.7
+203.2,3,1,1,2.8,Tangerang,35.9,Ya,Tidak,810.51
+97.0,3,1,1,2.0,Jakarta Utara,10.3,Ya,Ya,918.09
+161.1,5,3,1,3.5,Depok,15.5,Tidak,Tidak,903.96
+125.3,3,1,1,11.5,Jakarta Pusat,6.7,Ya,Ya,1644.09
+89.6,4,3,1,2.3,Jakarta Selatan,5.1,Ya,Ya,1733.24
+81.5,4,3,2,0.6,Jakarta Timur,11.2,Ya,Tidak,1022.35
+60.0,5,4,1,11.1,Tangerang,34.3,Ya,Tidak,706.97
+104.9,5,1,1,1.5,Jakarta Selatan,4.3,Ya,Ya,2026.76
+120.7,6,2,2,21.8,Jakarta Timur,5.9,Ya,Ya,1274.84
+111.2,4,2,1,17.9,Bekasi,24.3,Tidak,Tidak,553.66
+166.6,3,3,1,14.9,Depok,11.2,Tidak,Ya,1043.17
+126.1,5,3,2,3.1,Jakarta Pusat,7.0,Ya,Tidak,2120.3
+143.3,5,2,2,2.5,Jakarta Timur,2.6,Ya,Ya,1343.74
+115.8,5,3,1,6.7,Bogor,3.4,Ya,Tidak,648.26
+171.3,5,1,1,3.3,Jakarta Timur,14.5,Tidak,Tidak,1101.9
+83.8,3,1,2,1.9,Jakarta Pusat,3.1,Ya,Tidak,1439.05
+161.8,3,2,1,6.7,Tangerang,11.1,Ya,Ya,1146.17
+110.3,4,1,1,14.3,Jakarta Pusat,6.6,Ya,Tidak,1401.61
+111.3,2,1,1,7.9,Jakarta Utara,1.0,Ya,Tidak,930.41
+70.5,4,3,2,1.3,Jakarta Barat,12.4,Ya,Tidak,1031.56
+110.2,3,3,1,3.3,Jakarta Selatan,6.1,Ya,Tidak,1292.29
+107.5,3,2,1,8.9,Bogor,29.9,Ya,Tidak,522.65
+203.3,2,1,3,0.2,Bogor,32.1,Tidak,Ya,1075.11
+211.3,3,2,1,6.6,Bekasi,20.1,Tidak,Tidak,822.97
+171.2,4,1,2,0.3,Jakarta Pusat,2.2,Ya,Tidak,2029.18
+138.4,4,1,1,0.8,Jakarta Timur,17.2,Ya,Tidak,1229.05
+180.9,4,2,1,2.6,Bogor,24.8,Tidak,Tidak,630.66
+169.5,3,2,1,1.0,Jakarta Selatan,7.6,Ya,Tidak,1615.84
+60.0,5,2,1,0.1,Bogor,16.4,Ya,Ya,910.97
+160.3,6,1,2,6.9,Bekasi,15.0,Ya,Ya,1151.94
+88.1,3,3,1,1.2,Jakarta Barat,5.6,Tidak,Tidak,1139.97
+60.0,4,1,2,3.2,Jakarta Timur,14.0,Ya,Ya,1029.6
+166.9,4,2,1,1.2,Jakarta Pusat,3.5,Ya,Tidak,1944.96
+104.9,2,3,1,2.3,Tangerang,27.2,Ya,Tidak,678.44
+157.0,5,2,2,36.0,Bogor,21.5,Ya,Ya,658.56
+88.2,2,3,1,3.1,Jakarta Utara,11.3,Ya,Tidak,1007.38
+165.7,3,1,2,1.1,Jakarta Barat,16.1,Tidak,Tidak,1359.63
+149.8,3,1,1,4.7,Jakarta Utara,17.8,Ya,Ya,1247.93
+60.0,4,2,1,2.6,Bogor,26.6,Ya,Ya,617.3
+164.2,2,2,2,2.3,Tangerang,28.8,Ya,Ya,1062.42
+136.4,3,3,1,19.1,Jakarta Barat,14.4,Ya,Tidak,983.11
+105.0,4,3,1,9.0,Jakarta Pusat,4.7,Ya,Tidak,1713.4
+60.0,4,2,1,3.4,Bogor,23.5,Ya,Ya,656.64
+60.0,3,1,2,4.3,Jakarta Utara,9.3,Ya,Tidak,930.3
+140.4,6,1,1,7.4,Jakarta Selatan,1.6,Ya,Tidak,1554.59
+140.2,3,1,1,7.2,Bogor,19.2,Ya,Ya,728.53
+78.9,4,2,1,1.3,Jakarta Timur,11.1,Ya,Ya,1018.99
+168.1,2,2,2,14.1,Jakarta Selatan,5.6,Ya,Ya,1641.15
+167.1,6,2,1,7.4,Depok,28.5,Ya,Tidak,651.47
+111.1,5,4,1,32.4,Jakarta Utara,20.2,Ya,Ya,911.7
+154.8,4,1,1,1.1,Bekasi,23.1,Ya,Tidak,813.58
+133.0,3,3,1,14.0,Tangerang,34.7,Ya,Tidak,675.88
+124.9,3,1,1,0.2,Tangerang,26.2,Ya,Tidak,680.95
+147.8,2,2,1,1.6,Jakarta Timur,7.4,Ya,Tidak,767.72
+202.1,3,3,1,5.6,Jakarta Utara,12.2,Ya,Tidak,1216.04
+94.1,3,3,2,13.8,Tangerang,18.6,Ya,Tidak,735.67
+152.8,2,1,1,1.1,Bogor,33.8,Ya,Tidak,587.04
+109.5,4,1,1,3.2,Bogor,21.0,Ya,Ya,696.41
+99.4,2,4,1,10.4,Bekasi,13.8,Ya,Ya,800.6
+144.8,4,2,2,0.6,Jakarta Selatan,7.1,Ya,Tidak,1696.53
+156.3,4,4,2,5.4,Jakarta Pusat,5.6,Ya,Tidak,2012.88
+168.8,3,2,2,13.0,Jakarta Pusat,3.2,Tidak,Tidak,1736.76
+203.1,4,2,1,0.5,Jakarta Timur,8.0,Ya,Tidak,1314.54
+174.7,3,2,1,7.2,Bekasi,15.7,Ya,Tidak,751.67
+79.9,3,1,2,2.4,Bekasi,27.6,Ya,Tidak,687.8
+175.1,4,2,1,1.1,Jakarta Utara,13.3,Tidak,Ya,1245.94
+142.7,3,2,2,2.2,Tangerang,25.5,Tidak,Ya,981.66
+84.4,4,2,1,5.9,Jakarta Pusat,4.9,Ya,Ya,1705.04
+163.0,5,2,2,4.5,Tangerang,26.2,Ya,Ya,1281.63
+94.8,3,2,1,4.4,Bogor,19.0,Ya,Ya,747.4
+68.3,3,2,1,13.4,Jakarta Barat,17.3,Ya,Tidak,928.25
+115.7,4,2,2,21.5,Bogor,33.0,Tidak,Ya,725.05
+110.9,3,2,1,15.7,Depok,10.5,Tidak,Ya,769.2
+200.5,5,2,2,0.7,Jakarta Timur,12.5,Tidak,Ya,1536.07
+83.9,2,1,3,4.5,Bekasi,9.2,Ya,Tidak,743.57
+86.6,3,2,1,12.2,Depok,31.1,Tidak,Tidak,550.21
+90.3,3,2,2,0.2,Jakarta Pusat,5.0,Ya,Ya,1678.24
+159.6,5,2,2,15.6,Jakarta Selatan,3.8,Ya,Tidak,1769.85
+113.9,4,2,1,2.9,Jakarta Timur,8.7,Ya,Ya,1253.94
+157.9,5,4,1,0.7,Tangerang,19.4,Ya,Tidak,977.93
+192.3,5,2,1,14.5,Jakarta Utara,7.1,Ya,Tidak,1529.06
+178.1,6,3,2,4.1,Jakarta Pusat,4.8,Ya,Ya,2068.31
+155.9,3,1,1,15.9,Bekasi,17.7,Tidak,Ya,777.86
+99.0,3,1,1,29.8,Bogor,35.8,Ya,Ya,545.64
+118.4,3,2,1,4.0,Jakarta Selatan,5.4,Ya,Tidak,1370.43
+176.0,3,3,2,4.3,Jakarta Pusat,4.2,Ya,Ya,2263.35
+141.7,4,2,2,2.4,Jakarta Timur,6.4,Ya,Tidak,1220.14
+139.2,3,1,1,10.3,Jakarta Pusat,6.4,Ya,Tidak,1378.36
+88.2,2,3,2,2.1,Bekasi,35.0,Ya,Tidak,558.47
+124.1,5,3,1,12.0,Jakarta Barat,20.2,Tidak,Tidak,1117.0
+60.0,6,3,1,9.8,Bogor,30.3,Ya,Tidak,488.48
+88.7,2,1,1,2.8,Jakarta Timur,9.0,Ya,Tidak,883.41
+187.7,5,2,2,40.6,Tangerang,17.6,Ya,Ya,1096.17
+84.4,2,3,1,13.8,Tangerang,27.6,Ya,Tidak,606.57
+103.5,3,3,1,5.7,Jakarta Pusat,5.0,Ya,Tidak,1714.19
+122.1,4,3,3,11.2,Bekasi,26.9,Ya,Tidak,790.25
+65.5,5,2,1,8.7,Jakarta Utara,17.3,Ya,Ya,1027.55
+156.1,5,1,2,5.6,Jakarta Pusat,7.1,Ya,Tidak,1491.01
+60.0,4,2,2,4.8,Bogor,34.5,Ya,Tidak,518.02
+161.4,3,1,1,13.5,Jakarta Pusat,2.2,Ya,Tidak,1800.53
+196.8,5,2,1,11.4,Jakarta Pusat,4.7,Ya,Tidak,1730.24
+60.0,3,2,1,6.9,Bogor,29.1,Ya,Ya,578.54
+112.2,3,2,1,19.3,Jakarta Selatan,2.1,Tidak,Tidak,1230.25
+126.9,4,3,1,4.7,Depok,17.3,Ya,Tidak,731.6
+162.8,4,2,2,1.0,Jakarta Barat,15.8,Ya,Ya,1627.34
+60.0,4,3,1,3.4,Jakarta Pusat,4.6,Ya,Tidak,1524.07
+109.9,4,3,2,3.3,Jakarta Pusat,4.2,Ya,Tidak,1984.48
+175.7,5,3,1,0.4,Tangerang,30.7,Ya,Tidak,875.54
+171.7,4,1,2,6.3,Bekasi,21.3,Ya,Ya,1048.76
+60.0,4,3,1,26.2,Jakarta Pusat,6.4,Ya,Ya,1283.26
+114.1,3,1,1,30.3,Bekasi,16.9,Ya,Tidak,547.17
+119.5,4,3,1,3.0,Tangerang,30.8,Ya,Ya,809.65
+161.0,3,2,1,1.9,Jakarta Utara,12.4,Tidak,Ya,1266.19
+71.7,4,2,2,1.8,Jakarta Pusat,4.5,Ya,Tidak,1676.4
+153.4,5,3,1,2.5,Tangerang,11.5,Ya,Tidak,1026.34
+105.3,4,2,2,1.5,Jakarta Utara,9.2,Ya,Tidak,1185.97
+127.7,4,2,1,8.8,Bogor,23.0,Ya,Tidak,748.85
+63.5,5,1,1,4.6,Tangerang,25.7,Ya,Tidak,627.65
+154.5,3,3,2,15.9,Tangerang,29.8,Ya,Tidak,819.19
+115.8,2,4,1,7.6,Bekasi,38.6,Ya,Tidak,527.0
+145.3,3,2,2,0.5,Bogor,34.4,Ya,Tidak,617.44
+117.6,4,2,1,3.0,Jakarta Utara,9.8,Ya,Tidak,1099.16
+160.6,4,2,2,4.9,Jakarta Timur,9.4,Ya,Ya,1369.33
+82.0,3,2,1,0.5,Jakarta Timur,11.2,Ya,Tidak,977.72
+232.6,2,1,3,3.8,Tangerang,33.5,Ya,Ya,1202.45
+151.0,3,2,1,10.2,Bogor,30.0,Ya,Tidak,616.78
+165.1,3,1,2,5.1,Jakarta Utara,11.9,Ya,Tidak,1219.15
+104.1,6,2,3,14.6,Jakarta Utara,13.9,Ya,Ya,1220.89
+84.0,2,2,1,8.1,Depok,23.1,Ya,Tidak,490.06
+113.6,4,2,2,20.6,Jakarta Timur,8.4,Ya,Tidak,1066.31
+122.9,3,2,1,32.6,Jakarta Selatan,4.7,Ya,Ya,1424.01
+177.9,5,3,1,8.5,Jakarta Selatan,7.7,Ya,Tidak,1629.78
+204.7,4,2,1,2.9,Jakarta Pusat,4.1,Ya,Ya,2007.56
+158.3,3,2,2,4.3,Jakarta Pusat,5.4,Ya,Tidak,1902.23
+117.3,3,3,1,11.1,Jakarta Timur,16.6,Ya,Tidak,957.85
+191.4,3,3,1,5.2,Jakarta Timur,13.2,Ya,Ya,1424.33
+165.1,2,2,1,16.8,Bekasi,20.6,Ya,Tidak,748.0
+137.7,4,1,1,10.1,Jakarta Timur,16.0,Ya,Ya,1156.15
+81.4,5,2,3,5.3,Bekasi,24.2,Ya,Tidak,849.16
+81.1,3,1,1,11.9,Bogor,32.9,Ya,Tidak,407.61
+149.0,3,2,1,7.5,Jakarta Pusat,6.8,Ya,Tidak,1650.98
+158.9,3,2,1,24.3,Jakarta Timur,12.5,Ya,Tidak,1026.6
+94.9,2,1,1,5.7,Bekasi,24.3,Ya,Tidak,592.32
+88.0,4,2,2,9.1,Tangerang,14.9,Ya,Tidak,791.24
+121.0,3,2,2,10.6,Bekasi,28.6,Ya,Ya,847.13
+99.3,3,1,2,1.1,Depok,22.6,Tidak,Ya,883.85
+60.0,4,2,2,1.7,Jakarta Pusat,3.9,Ya,Ya,1678.77
+168.7,2,3,2,16.5,Jakarta Selatan,5.1,Tidak,Tidak,1504.84
+177.0,2,2,1,16.1,Depok,19.0,Tidak,Tidak,629.12
+60.0,4,2,1,10.7,Tangerang,20.2,Ya,Tidak,655.85
+95.9,2,3,2,0.1,Bekasi,14.4,Ya,Tidak,569.76
+151.2,4,2,1,9.0,Tangerang,16.1,Ya,Tidak,818.0
+60.0,4,3,1,3.0,Jakarta Timur,16.8,Ya,Ya,907.07
+80.6,3,2,2,2.0,Jakarta Timur,8.8,Ya,Tidak,998.48
+160.8,3,2,2,3.6,Depok,37.3,Tidak,Tidak,734.89
+175.8,3,1,2,0.1,Jakarta Barat,7.8,Ya,Ya,1592.14
+163.3,3,3,2,33.0,Jakarta Utara,14.7,Ya,Tidak,970.39
+138.9,4,2,1,3.2,Bekasi,19.8,Ya,Tidak,717.39
+189.9,2,2,1,21.2,Jakarta Barat,7.4,Ya,Ya,1300.79
+95.9,4,3,2,1.0,Jakarta Pusat,5.6,Tidak,Tidak,1590.65
+203.9,4,1,2,0.7,Jakarta Timur,13.6,Ya,Tidak,1130.18
+100.0,3,1,2,6.0,Bogor,28.5,Ya,Tidak,486.09
+112.7,4,2,1,7.8,Bekasi,21.8,Ya,Tidak,628.39
+164.9,4,1,2,2.6,Jakarta Timur,13.5,Ya,Tidak,1312.72
+172.7,4,4,1,2.0,Bekasi,35.6,Ya,Tidak,882.96
+98.3,3,3,2,4.9,Jakarta Utara,11.7,Tidak,Tidak,946.12
+60.0,5,2,2,31.7,Jakarta Utara,17.5,Ya,Tidak,750.15
+84.0,3,2,1,7.3,Jakarta Barat,7.5,Ya,Tidak,1001.87
+134.8,5,3,1,6.8,Tangerang,27.5,Ya,Ya,877.9
+111.5,3,2,1,11.3,Tangerang,34.4,Ya,Ya,914.29
+131.9,2,1,1,13.7,Jakarta Pusat,1.4,Tidak,Tidak,1466.77
+60.0,5,3,2,17.9,Jakarta Barat,10.4,Ya,Tidak,1207.42
+88.4,4,1,1,3.4,Jakarta Timur,5.5,Ya,Ya,1296.35
+162.7,4,2,3,2.9,Jakarta Pusat,6.1,Ya,Tidak,2144.24
+101.5,3,3,1,2.1,Jakarta Pusat,6.3,Ya,Tidak,1408.24
+60.0,5,2,2,21.1,Jakarta Selatan,6.9,Tidak,Tidak,1085.01
+108.3,5,1,2,1.8,Bekasi,27.0,Ya,Ya,795.63
+60.0,2,3,1,6.8,Jakarta Timur,19.2,Ya,Ya,964.6
+84.1,3,1,1,20.6,Jakarta Utara,6.9,Ya,Ya,959.47
+109.6,4,1,1,3.3,Jakarta Selatan,2.5,Ya,Tidak,1319.01
+151.8,4,1,2,19.3,Jakarta Barat,7.8,Ya,Tidak,1539.52
+134.8,3,1,1,19.5,Jakarta Selatan,6.2,Ya,Ya,1789.46
+63.0,3,3,1,8.5,Jakarta Timur,11.3,Ya,Tidak,862.0
+113.9,4,2,1,11.8,Jakarta Utara,9.0,Ya,Tidak,959.97
+108.0,3,3,1,0.7,Jakarta Selatan,5.1,Ya,Ya,1695.41
+106.5,2,1,1,21.1,Jakarta Selatan,4.7,Ya,Tidak,1197.75
+95.0,6,2,2,5.5,Tangerang,11.5,Ya,Tidak,1016.71
+104.3,3,3,2,10.0,Bekasi,32.3,Tidak,Ya,767.17
+123.2,4,2,1,3.4,Depok,29.9,Ya,Tidak,643.83
+126.2,3,2,1,11.1,Bogor,29.2,Ya,Tidak,468.63
+103.2,3,2,1,6.9,Jakarta Utara,14.4,Ya,Tidak,883.52
+62.1,4,2,3,5.2,Jakarta Pusat,4.9,Ya,Ya,2020.38
+178.7,2,2,1,14.3,Tangerang,25.4,Ya,Tidak,836.54
+107.4,2,2,1,12.0,Bogor,17.5,Ya,Tidak,529.58
+136.0,3,2,1,33.4,Tangerang,35.6,Ya,Tidak,499.51
+138.7,2,2,1,5.7,Jakarta Utara,11.9,Ya,Tidak,1149.82
+92.0,4,2,1,2.6,Bogor,24.3,Ya,Ya,765.04
+158.1,3,1,2,7.7,Jakarta Pusat,6.1,Ya,Tidak,1846.34
+152.4,3,1,2,1.2,Bekasi,24.3,Tidak,Tidak,838.93
+139.6,3,3,2,2.7,Jakarta Utara,14.2,Ya,Ya,1711.62
+167.4,4,1,3,0.4,Bekasi,32.0,Ya,Ya,960.17
+60.0,6,3,2,13.6,Jakarta Barat,16.2,Ya,Tidak,1109.42
+183.5,3,2,1,16.5,Bogor,26.9,Ya,Tidak,585.61
+131.6,5,2,2,16.1,Depok,17.8,Ya,Tidak,847.18
+86.9,5,3,1,0.8,Depok,24.2,Ya,Ya,852.93
+137.5,5,2,1,2.6,Bogor,25.9,Ya,Tidak,566.34
+60.0,2,2,1,1.0,Bekasi,27.0,Ya,Ya,758.64
+60.0,3,2,1,12.8,Depok,21.7,Ya,Tidak,554.26
+131.7,3,2,1,6.8,Tangerang,24.5,Ya,Ya,1088.42
+84.6,3,2,1,3.1,Depok,20.8,Ya,Ya,736.04
+168.2,3,1,1,2.6,Bogor,30.3,Ya,Tidak,551.08
+93.0,4,2,2,0.4,Bogor,34.2,Ya,Tidak,642.68
+85.0,3,3,1,1.6,Depok,21.3,Ya,Tidak,640.97
+84.8,2,1,2,5.4,Jakarta Timur,16.6,Tidak,Ya,985.47
+125.8,3,1,3,13.0,Bekasi,9.7,Ya,Ya,1040.03
+174.0,4,1,1,0.9,Jakarta Barat,9.4,Ya,Ya,1557.12
+167.4,3,4,2,1.0,Jakarta Selatan,5.1,Ya,Tidak,1663.11
+124.4,4,1,1,1.7,Bekasi,29.9,Ya,Tidak,701.8
+119.5,2,3,2,0.5,Depok,26.5,Ya,Ya,946.84
+125.9,2,3,1,6.0,Jakarta Timur,9.9,Tidak,Tidak,1075.09
+83.2,4,2,1,3.9,Jakarta Pusat,4.6,Ya,Ya,1617.36
+122.1,3,3,2,5.3,Jakarta Selatan,6.9,Ya,Tidak,1678.54
+147.0,3,3,1,2.5,Depok,14.0,Ya,Tidak,720.3
+83.9,3,1,2,1.0,Jakarta Barat,14.4,Ya,Tidak,662.13
+190.2,2,2,1,28.6,Jakarta Timur,17.4,Tidak,Tidak,1070.79
+186.5,4,2,1,12.8,Jakarta Barat,13.2,Ya,Tidak,1272.56
+143.8,3,1,1,0.3,Jakarta Utara,11.7,Ya,Ya,1396.06
+156.6,2,3,1,18.4,Jakarta Selatan,4.8,Tidak,Ya,2002.91
+168.0,4,2,1,14.8,Depok,25.3,Ya,Tidak,901.73
+75.2,3,2,1,2.9,Bekasi,23.6,Ya,Tidak,607.64
+104.3,5,2,1,10.3,Tangerang,22.6,Ya,Tidak,872.89
+79.7,3,2,1,13.2,Jakarta Pusat,1.0,Tidak,Tidak,1192.05
+165.6,3,1,1,3.0,Jakarta Utara,12.3,Ya,Tidak,1075.65
+93.2,3,4,1,5.0,Bogor,23.2,Ya,Tidak,472.72
+91.5,3,1,1,4.3,Tangerang,10.6,Ya,Tidak,704.45
+161.9,3,1,1,31.3,Jakarta Pusat,6.0,Ya,Tidak,1554.25
+98.9,3,2,3,20.2,Bekasi,28.8,Tidak,Tidak,588.22
+65.5,5,2,1,0.5,Jakarta Utara,14.9,Ya,Tidak,956.42
+156.1,4,1,1,4.9,Tangerang,27.0,Ya,Tidak,816.12
+195.4,4,2,1,4.7,Depok,17.6,Ya,Tidak,1004.97
+134.0,3,3,1,17.6,Depok,24.5,Ya,Tidak,669.33
+95.4,3,1,1,17.4,Bogor,20.1,Ya,Tidak,507.59
+106.8,3,2,1,0.9,Jakarta Utara,14.4,Ya,Tidak,811.25
+121.7,4,2,1,1.0,Tangerang,33.3,Ya,Ya,1022.18
+213.0,6,2,1,6.4,Jakarta Selatan,5.0,Ya,Ya,2130.44
+82.9,4,4,2,17.2,Jakarta Timur,15.0,Tidak,Ya,1073.25
+122.7,5,3,2,13.9,Tangerang,26.8,Ya,Tidak,992.18
+149.1,4,3,2,3.6,Jakarta Timur,20.9,Tidak,Ya,1344.81
+60.0,5,1,1,0.5,Bekasi,14.0,Tidak,Ya,757.4
+109.7,3,3,1,0.7,Depok,24.4,Ya,Ya,955.77
+146.7,5,3,2,0.4,Jakarta Pusat,5.8,Ya,Ya,2349.33
+139.2,6,1,1,1.9,Jakarta Selatan,6.5,Tidak,Tidak,1702.82
+137.9,4,1,1,15.6,Bogor,31.4,Tidak,Tidak,431.19
+71.1,5,4,1,5.5,Bogor,28.4,Ya,Tidak,591.23
+86.0,4,2,1,2.8,Jakarta Timur,15.2,Ya,Ya,1242.85
+89.4,3,2,1,3.5,Jakarta Barat,7.5,Ya,Tidak,1168.2
+88.5,4,2,1,8.1,Depok,18.7,Ya,Tidak,582.25
+130.2,3,2,1,1.7,Bogor,20.0,Ya,Tidak,671.81
+106.5,4,2,1,2.3,Jakarta Pusat,8.8,Tidak,Ya,1355.26
+60.0,3,3,2,12.2,Bekasi,41.5,Tidak,Tidak,451.74
+99.7,3,2,1,10.3,Tangerang,21.8,Ya,Tidak,504.4
+137.7,4,2,2,4.2,Jakarta Barat,10.1,Ya,Tidak,1637.13
+84.5,3,2,2,2.1,Tangerang,22.6,Ya,Tidak,786.13
+132.4,5,1,2,3.1,Depok,30.3,Ya,Tidak,717.77
+122.9,2,3,1,3.6,Jakarta Timur,17.0,Tidak,Tidak,834.27
+167.6,3,1,1,13.2,Jakarta Utara,8.7,Ya,Tidak,1309.99
+171.5,4,3,1,2.4,Jakarta Pusat,6.0,Ya,Tidak,1844.02
+144.4,2,3,1,9.0,Jakarta Timur,3.7,Ya,Tidak,931.7
+83.5,2,1,1,4.2,Jakarta Pusat,3.7,Ya,Ya,1619.3
+119.0,3,2,1,0.1,Tangerang,8.0,Ya,Tidak,787.68
+80.9,4,1,2,4.5,Jakarta Pusat,7.8,Ya,Tidak,1587.91
+116.7,2,1,1,1.3,Jakarta Utara,16.6,Ya,Tidak,906.09
+81.4,5,2,3,9.1,Jakarta Timur,5.6,Ya,Tidak,1129.53
+169.0,4,4,1,2.6,Jakarta Timur,11.3,Ya,Ya,1480.01
+138.2,4,2,2,2.5,Jakarta Barat,7.8,Ya,Ya,1637.22
+106.8,6,1,1,5.3,Jakarta Pusat,8.3,Ya,Ya,2086.47
+100.4,5,3,1,4.2,Tangerang,16.2,Ya,Tidak,915.73
+105.2,2,2,2,3.6,Jakarta Pusat,4.3,Ya,Tidak,1387.26
+75.0,4,1,1,12.7,Bogor,19.6,Ya,Tidak,491.63
+170.2,5,3,2,11.0,Jakarta Selatan,5.8,Tidak,Ya,2226.53
+77.1,3,3,1,5.7,Depok,23.5,Ya,Ya,862.81
+71.3,4,2,2,10.9,Bogor,32.9,Ya,Tidak,507.78
+60.0,3,3,1,3.9,Jakarta Timur,16.4,Ya,Tidak,698.53
+94.8,5,4,1,6.1,Bekasi,26.6,Ya,Tidak,630.63
+101.4,3,2,2,3.3,Jakarta Selatan,4.6,Ya,Ya,1929.69
+89.4,4,2,1,5.0,Tangerang,32.0,Ya,Tidak,785.12
+110.9,4,2,2,11.3,Jakarta Pusat,2.1,Ya,Ya,1847.94
+67.4,2,2,2,15.3,Jakarta Utara,15.2,Ya,Ya,1035.78
+144.0,3,3,2,6.1,Tangerang,30.4,Ya,Ya,1034.03
+200.0,2,2,2,9.6,Tangerang,34.1,Ya,Tidak,826.82
+117.0,4,2,2,2.9,Bogor,28.1,Ya,Tidak,685.23
+98.7,3,3,1,11.2,Depok,28.1,Ya,Tidak,635.21
+153.0,3,2,1,5.7,Tangerang,29.2,Ya,Ya,963.9
+176.3,3,1,2,0.5,Depok,15.3,Tidak,Ya,1044.05
+75.8,3,1,2,5.7,Jakarta Pusat,4.0,Ya,Tidak,1593.8
+110.9,5,2,2,19.4,Jakarta Pusat,4.7,Tidak,Ya,1660.52
+184.7,3,2,1,3.4,Jakarta Utara,13.2,Ya,Ya,1297.02
+134.6,4,1,1,18.6,Jakarta Timur,7.4,Tidak,Ya,1078.28
+163.9,5,3,1,0.6,Jakarta Barat,7.8,Ya,Ya,1584.79
+187.6,3,3,1,4.8,Jakarta Utara,18.7,Tidak,Ya,1351.47
+224.2,2,3,1,9.3,Jakarta Pusat,4.2,Ya,Tidak,2036.19
+107.6,3,2,2,4.9,Jakarta Pusat,1.2,Ya,Tidak,2036.92
+82.2,3,2,1,2.2,Jakarta Timur,10.7,Ya,Tidak,911.16
+145.8,2,3,2,6.8,Bekasi,20.3,Ya,Tidak,721.99
+60.0,4,1,2,7.7,Bogor,24.9,Ya,Tidak,523.51
+116.9,3,3,2,2.6,Tangerang,23.5,Ya,Ya,1053.59
+138.4,3,1,1,2.2,Bekasi,17.9,Ya,Tidak,757.24
+137.3,3,2,1,9.7,Bekasi,20.9,Tidak,Ya,921.31
+123.7,3,2,1,2.6,Jakarta Selatan,4.8,Ya,Tidak,1517.22
+118.0,4,3,2,8.8,Jakarta Timur,7.0,Ya,Tidak,1124.96
+123.6,4,2,2,5.6,Jakarta Utara,17.3,Ya,Tidak,1178.89
+107.2,5,2,1,3.0,Jakarta Utara,14.2,Ya,Ya,1253.02
+165.0,3,2,2,1.1,Depok,33.8,Ya,Ya,966.06
+124.2,3,2,1,31.9,Jakarta Barat,13.3,Ya,Tidak,784.48
+173.4,4,2,1,5.3,Tangerang,30.7,Tidak,Ya,1065.93
+112.4,3,3,2,16.6,Tangerang,12.8,Ya,Tidak,794.49
+90.5,3,2,2,4.9,Bogor,28.1,Ya,Ya,786.18
+137.7,3,2,3,2.4,Bogor,25.4,Ya,Tidak,769.55
+60.0,2,3,1,17.5,Bogor,32.8,Ya,Tidak,372.97
+123.5,3,1,2,15.9,Jakarta Pusat,2.9,Tidak,Tidak,1537.16
+135.4,5,2,1,0.4,Jakarta Utara,5.5,Ya,Tidak,1174.87
+107.2,3,2,3,8.2,Bekasi,5.8,Ya,Ya,966.13
+195.6,4,4,2,0.4,Jakarta Pusat,7.6,Tidak,Tidak,2189.64
+123.0,3,4,1,0.5,Jakarta Pusat,6.2,Ya,Tidak,1672.13
+70.7,3,2,1,4.5,Jakarta Barat,17.9,Ya,Ya,961.88
+113.2,3,1,1,11.8,Bekasi,39.6,Ya,Tidak,504.32
+133.8,3,2,2,2.1,Bogor,14.4,Tidak,Tidak,622.6
+72.7,2,2,1,1.7,Jakarta Timur,14.9,Ya,Tidak,868.61
+69.0,4,3,1,9.5,Jakarta Pusat,1.5,Ya,Tidak,1470.28
+131.9,3,1,1,6.3,Bogor,26.1,Ya,Tidak,572.07
+147.8,3,2,2,5.2,Tangerang,26.0,Ya,Ya,1052.13
+127.6,3,2,1,2.4,Depok,40.5,Ya,Tidak,567.47
+127.0,3,1,3,6.6,Jakarta Selatan,2.1,Tidak,Ya,2049.2
+172.1,2,1,1,6.6,Jakarta Utara,8.4,Ya,Ya,1336.53
+146.6,3,1,2,6.8,Tangerang,46.3,Ya,Tidak,712.42
+98.6,2,2,1,5.8,Jakarta Timur,11.2,Ya,Tidak,805.57
+97.4,2,3,1,9.4,Jakarta Utara,12.7,Ya,Tidak,781.67
+81.0,3,2,2,14.8,Jakarta Timur,14.8,Ya,Ya,1037.99
+104.5,4,1,1,8.3,Tangerang,29.6,Ya,Ya,901.71
+102.8,5,2,2,5.5,Bekasi,28.8,Ya,Tidak,669.39
+86.6,3,2,2,3.7,Jakarta Pusat,7.2,Ya,Tidak,1482.19
+160.9,2,3,1,4.1,Jakarta Barat,9.9,Ya,Ya,1409.05
+162.4,3,1,1,5.5,Jakarta Pusat,5.4,Tidak,Tidak,1680.29
+84.2,3,2,2,5.6,Jakarta Pusat,6.0,Ya,Tidak,1721.02
+126.5,3,1,1,23.4,Jakarta Barat,14.0,Ya,Ya,1124.85
+118.6,6,3,1,3.3,Jakarta Pusat,1.9,Ya,Ya,2092.42
+60.0,4,3,1,7.6,Jakarta Pusat,6.5,Ya,Ya,1495.55
+164.2,3,2,1,0.3,Jakarta Barat,10.5,Tidak,Tidak,1313.48
+104.8,4,2,2,26.0,Jakarta Pusat,3.6,Tidak,Tidak,1646.89
+115.1,4,2,2,4.8,Jakarta Pusat,6.2,Ya,Ya,2192.42
+131.5,2,2,1,2.8,Depok,20.8,Ya,Ya,976.06
+125.4,4,2,1,2.0,Jakarta Barat,14.0,Ya,Tidak,1275.77
+167.3,4,2,1,2.0,Jakarta Pusat,6.0,Tidak,Ya,2157.06
+157.5,3,2,2,3.1,Bogor,15.2,Tidak,Tidak,700.47
+129.6,4,2,2,14.7,Tangerang,22.4,Ya,Tidak,712.36
+117.7,5,2,1,9.4,Bogor,28.6,Ya,Tidak,565.85
+76.9,3,2,1,6.0,Jakarta Timur,12.6,Tidak,Tidak,724.02
+114.6,3,3,2,1.0,Jakarta Pusat,4.2,Ya,Tidak,1913.37
+152.7,4,2,1,8.2,Bekasi,30.9,Ya,Tidak,735.03
+116.4,4,3,1,11.6,Depok,25.3,Ya,Tidak,818.54
+139.2,6,1,1,22.2,Bekasi,36.7,Ya,Tidak,774.54
+89.1,4,3,1,10.7,Jakarta Timur,9.9,Tidak,Tidak,914.7
+77.3,5,3,1,9.9,Jakarta Utara,15.0,Ya,Ya,1300.24
+122.2,4,2,2,0.3,Bekasi,21.2,Ya,Tidak,809.86
+118.4,4,3,1,11.0,Jakarta Selatan,6.4,Ya,Tidak,1485.83
+148.2,3,2,1,7.4,Jakarta Utara,12.9,Ya,Tidak,1000.99
+117.1,2,3,1,4.7,Jakarta Barat,11.2,Ya,Tidak,960.7
+142.1,5,1,2,0.7,Bekasi,22.2,Tidak,Tidak,788.88
+134.7,4,3,2,3.3,Tangerang,17.0,Ya,Tidak,1043.82
+121.1,4,2,1,16.9,Depok,25.2,Ya,Tidak,678.18
+167.3,4,2,1,24.7,Jakarta Timur,8.1,Ya,Tidak,1187.61
+198.8,3,2,3,2.3,Jakarta Selatan,3.9,Ya,Ya,2262.37
+83.3,3,2,1,22.6,Jakarta Selatan,2.4,Ya,Tidak,994.83
+148.4,2,2,1,1.8,Tangerang,9.6,Ya,Tidak,856.15
+169.5,3,2,2,1.1,Depok,28.3,Tidak,Tidak,909.81
+163.3,4,2,1,4.4,Bekasi,16.4,Ya,Ya,867.71
+160.9,6,1,1,3.5,Bekasi,36.0,Ya,Tidak,792.39
+158.7,2,2,1,3.9,Tangerang,27.3,Ya,Tidak,843.95
+125.0,3,3,1,4.0,Jakarta Utara,7.7,Ya,Tidak,1050.19
+101.5,5,3,1,2.4,Jakarta Barat,1.0,Ya,Tidak,1377.06
+150.5,3,1,1,2.8,Bekasi,23.5,Tidak,Tidak,488.68
+94.7,2,2,2,1.0,Jakarta Barat,12.2,Ya,Tidak,961.31
+74.7,4,1,2,0.8,Jakarta Barat,14.1,Ya,Tidak,1150.0
+97.2,4,2,1,5.2,Bekasi,22.1,Ya,Tidak,614.81
+105.1,5,4,3,12.5,Jakarta Timur,12.6,Ya,Tidak,1190.65
+201.4,5,1,1,16.9,Depok,27.9,Ya,Tidak,823.04
+123.4,3,1,1,18.0,Jakarta Timur,7.7,Ya,Ya,945.3
+138.6,4,2,1,5.3,Jakarta Timur,16.9,Ya,Tidak,1107.97
+88.0,5,2,1,26.0,Jakarta Timur,11.1,Tidak,Ya,903.1
+158.4,2,3,1,3.6,Jakarta Barat,16.5,Ya,Tidak,1408.26
+88.5,3,2,2,5.1,Tangerang,32.7,Ya,Tidak,673.77
+104.5,3,2,2,2.1,Depok,35.4,Tidak,Ya,694.04
+176.8,4,3,2,12.0,Depok,21.8,Tidak,Tidak,972.15
+102.7,3,3,1,16.3,Tangerang,39.5,Ya,Ya,773.09
+123.0,5,2,1,2.1,Bogor,31.9,Ya,Tidak,573.65
+145.3,3,1,1,13.7,Jakarta Barat,11.4,Ya,Tidak,1274.8
+97.0,4,3,1,7.5,Bogor,18.4,Ya,Ya,753.89
+164.8,6,3,1,17.3,Tangerang,35.2,Ya,Ya,948.37
+127.2,3,3,1,11.0,Jakarta Pusat,6.5,Ya,Tidak,1476.48
+116.8,3,2,2,1.1,Tangerang,29.1,Tidak,Tidak,620.67
+93.4,4,2,1,6.0,Jakarta Selatan,3.5,Ya,Tidak,1380.79
+120.9,4,2,1,12.5,Tangerang,20.9,Ya,Tidak,767.78
+141.3,3,1,2,8.3,Tangerang,39.3,Ya,Tidak,760.54
+96.3,3,2,1,18.1,Depok,34.9,Ya,Tidak,560.17
+192.6,3,2,2,22.2,Bekasi,37.3,Ya,Ya,1048.33
+146.7,6,1,1,0.5,Bekasi,27.1,Ya,Ya,919.76
+73.6,6,2,1,3.3,Tangerang,11.9,Ya,Tidak,739.33
+165.6,3,2,1,1.7,Jakarta Timur,7.3,Tidak,Ya,1529.01
+100.5,3,3,1,16.6,Jakarta Barat,13.2,Ya,Ya,1247.31
+132.4,5,1,1,3.3,Jakarta Timur,12.7,Ya,Tidak,1060.55
+179.8,2,2,1,3.1,Jakarta Utara,15.8,Ya,Ya,1393.86
+159.9,2,2,1,8.9,Jakarta Utara,16.7,Ya,Ya,1368.05
+100.6,5,3,1,2.3,Depok,23.2,Ya,Ya,939.88
+60.0,5,1,1,7.3,Jakarta Barat,10.7,Ya,Tidak,863.75
+119.4,5,2,1,0.3,Jakarta Pusat,4.3,Ya,Tidak,1735.33
+105.3,4,3,1,0.1,Jakarta Utara,15.2,Tidak,Tidak,1040.14
+138.4,4,2,1,14.1,Bekasi,40.4,Ya,Ya,567.05
+178.3,6,3,2,7.7,Jakarta Selatan,6.0,Ya,Tidak,1919.47
+112.1,3,1,1,1.6,Depok,22.8,Ya,Tidak,575.62
+115.7,4,2,2,4.5,Jakarta Selatan,7.2,Ya,Ya,1737.25
+80.5,4,2,1,1.1,Bekasi,29.2,Tidak,Tidak,530.19
+145.5,3,3,1,6.0,Bogor,29.0,Tidak,Ya,728.35
+60.0,4,3,1,12.5,Bekasi,8.7,Ya,Tidak,557.39
+74.4,3,2,1,5.8,Depok,21.9,Ya,Tidak,593.14
+60.0,6,2,1,0.8,Bekasi,19.2,Ya,Tidak,704.24
+66.3,5,2,1,15.2,Bekasi,18.2,Tidak,Tidak,512.39
+115.1,2,2,1,46.8,Jakarta Timur,7.6,Ya,Tidak,749.1
+180.6,3,2,1,2.1,Tangerang,28.3,Ya,Tidak,796.55
+104.3,3,2,1,15.9,Depok,14.6,Ya,Tidak,647.35
+98.6,4,1,1,2.4,Jakarta Pusat,5.4,Ya,Tidak,1544.46
+106.2,4,1,2,4.7,Bogor,26.8,Ya,Tidak,619.51
+146.2,4,3,1,8.1,Jakarta Utara,8.8,Ya,Tidak,948.6
+127.4,2,2,1,4.7,Depok,32.5,Ya,Tidak,691.61
+106.3,3,1,1,3.0,Jakarta Utara,7.6,Ya,Tidak,909.11
+98.0,5,1,1,22.3,Jakarta Pusat,2.5,Ya,Tidak,1494.5
+75.5,6,1,2,0.0,Jakarta Utara,8.1,Ya,Tidak,1270.97
+113.9,2,1,1,5.3,Jakarta Timur,16.8,Ya,Tidak,848.56
+110.0,4,1,1,12.2,Jakarta Utara,7.3,Ya,Tidak,994.5
+106.3,4,2,1,1.2,Jakarta Barat,16.2,Ya,Tidak,1145.82
+60.0,5,3,2,1.0,Jakarta Pusat,7.0,Ya,Tidak,1562.04
+127.8,4,3,2,1.5,Bogor,31.5,Ya,Tidak,680.23
+60.0,3,2,1,2.5,Jakarta Timur,10.4,Tidak,Ya,1112.14
+69.0,3,2,1,3.0,Jakarta Barat,11.2,Ya,Tidak,801.3
+123.2,4,3,1,4.1,Jakarta Utara,18.4,Ya,Tidak,1213.75
+119.2,5,3,1,8.0,Bogor,15.3,Ya,Tidak,668.58
+188.4,5,2,3,11.4,Jakarta Utara,4.7,Ya,Tidak,1566.45
+121.6,4,3,2,3.4,Bekasi,15.7,Ya,Tidak,623.56
+136.0,5,2,2,5.6,Depok,25.3,Ya,Ya,1093.6
+60.0,3,2,1,10.1,Jakarta Utara,10.5,Ya,Tidak,700.22
+86.5,4,2,1,17.0,Jakarta Timur,3.6,Tidak,Ya,1159.18
+78.9,2,1,1,5.7,Bekasi,18.1,Ya,Tidak,512.67
+100.6,4,2,1,3.0,Tangerang,28.7,Ya,Tidak,672.58
+120.9,4,1,1,0.0,Jakarta Timur,7.5,Ya,Tidak,829.68
+144.6,4,3,2,9.0,Depok,34.5,Ya,Tidak,866.92
+140.9,4,3,1,0.3,Jakarta Utara,16.6,Ya,Tidak,1247.26
+136.3,4,2,2,4.4,Depok,33.8,Tidak,Tidak,528.81
+78.7,3,2,1,1.4,Jakarta Selatan,7.7,Ya,Tidak,1356.62
+160.4,3,3,2,3.6,Jakarta Timur,15.4,Ya,Tidak,1225.19
+61.0,2,2,1,18.3,Tangerang,27.1,Tidak,Tidak,355.55
+97.8,4,3,1,0.9,Depok,24.9,Ya,Tidak,668.99
+159.6,3,2,1,0.1,Jakarta Timur,11.7,Ya,Tidak,1137.14
+213.2,3,2,1,5.6,Jakarta Selatan,5.3,Ya,Tidak,1696.68
+154.1,3,4,2,14.7,Tangerang,25.9,Ya,Tidak,756.55
+89.0,2,2,1,0.7,Jakarta Barat,12.8,Ya,Tidak,1014.01
+67.2,3,4,2,1.2,Tangerang,27.2,Ya,Tidak,812.15
+70.3,3,3,2,3.5,Jakarta Selatan,7.2,Ya,Ya,1625.14
+65.6,6,2,1,6.0,Bekasi,26.0,Ya,Tidak,622.52
+115.6,3,3,2,13.9,Jakarta Utara,8.2,Ya,Tidak,956.74
+172.4,5,1,2,0.0,Jakarta Pusat,5.2,Ya,Ya,2476.81
+115.6,3,1,1,1.5,Depok,19.6,Ya,Ya,859.58
+86.4,4,1,2,3.6,Jakarta Barat,14.4,Ya,Tidak,1258.03
+154.8,6,3,2,16.5,Depok,41.7,Tidak,Ya,986.04
+133.2,4,1,2,14.6,Bogor,22.3,Ya,Tidak,656.92
+117.8,3,1,2,7.5,Jakarta Barat,13.0,Ya,Tidak,961.48
+82.7,3,2,2,21.2,Depok,18.2,Tidak,Tidak,562.7
+60.0,3,1,2,11.9,Jakarta Barat,13.8,Ya,Tidak,861.33
+74.5,4,1,2,8.5,Jakarta Utara,19.8,Ya,Tidak,964.36
+91.5,3,2,1,0.7,Jakarta Barat,12.5,Ya,Tidak,1158.88
+162.4,3,2,2,11.9,Jakarta Timur,6.0,Ya,Tidak,1306.36
+60.0,4,1,3,0.9,Jakarta Utara,11.1,Ya,Ya,1371.66
+137.9,4,2,1,1.4,Jakarta Utara,5.4,Ya,Ya,1459.04
+69.7,5,2,1,5.8,Bogor,32.0,Ya,Tidak,445.86
+107.3,2,2,1,6.6,Jakarta Barat,2.3,Ya,Tidak,1122.62
+111.6,3,2,2,5.4,Jakarta Utara,7.7,Ya,Tidak,1254.38
+122.8,4,1,1,6.9,Jakarta Pusat,6.0,Ya,Ya,1743.97
+145.1,5,3,2,1.6,Tangerang,25.9,Ya,Tidak,1008.45
+139.0,3,2,1,10.8,Bekasi,33.2,Ya,Tidak,667.94
+186.3,4,3,2,0.3,Depok,21.7,Ya,Ya,1434.19
+115.4,4,3,1,0.7,Bekasi,37.4,Ya,Ya,842.63
+112.0,3,3,2,4.5,Bogor,23.1,Ya,Tidak,789.49
+189.6,3,2,1,7.4,Jakarta Timur,14.9,Ya,Tidak,1413.76
+159.8,6,3,2,7.0,Depok,23.5,Tidak,Ya,1352.48
+134.2,4,2,1,12.7,Bekasi,23.3,Ya,Tidak,549.72
+189.6,3,2,1,4.2,Jakarta Selatan,5.2,Ya,Ya,2171.66
+138.9,4,2,2,1.9,Bogor,16.7,Tidak,Tidak,795.07
+94.9,6,3,2,1.5,Jakarta Pusat,7.6,Ya,Ya,1964.82
+117.6,4,2,2,6.3,Jakarta Timur,10.4,Ya,Tidak,1100.45
+115.4,4,3,1,1.8,Depok,35.2,Ya,Tidak,733.47
+192.8,5,2,1,5.2,Jakarta Timur,7.4,Ya,Tidak,1309.31
+66.3,4,3,1,8.0,Tangerang,19.8,Ya,Tidak,694.81
+86.6,4,2,2,21.0,Tangerang,11.9,Ya,Ya,951.51
+89.0,2,3,1,7.8,Jakarta Utara,14.9,Ya,Ya,1053.8
+169.4,3,2,1,1.7,Jakarta Utara,9.5,Ya,Tidak,1068.03
+87.0,4,2,1,1.5,Bogor,16.5,Ya,Ya,751.16
+179.2,3,1,2,12.3,Jakarta Utara,11.6,Ya,Tidak,1241.33
+89.1,2,3,3,8.3,Jakarta Pusat,6.5,Ya,Ya,1963.64
+115.3,4,1,2,10.5,Jakarta Barat,10.5,Ya,Tidak,1337.66
+191.3,4,3,2,16.7,Tangerang,43.2,Ya,Ya,990.21
+70.6,2,1,2,5.4,Tangerang,21.4,Ya,Tidak,579.15
+84.0,4,1,2,3.7,Jakarta Barat,17.7,Ya,Tidak,937.41
+197.7,3,3,2,1.9,Tangerang,29.8,Ya,Tidak,1092.78
+88.6,3,2,3,3.0,Jakarta Barat,18.0,Ya,Tidak,897.26
+97.9,3,2,2,3.1,Tangerang,31.8,Ya,Ya,885.68
+141.3,3,3,2,5.9,Jakarta Timur,13.8,Ya,Tidak,1237.66
+141.3,3,2,1,8.0,Depok,31.5,Ya,Tidak,609.1
+146.9,3,2,2,19.5,Jakarta Timur,5.1,Ya,Tidak,1177.7
+91.1,4,1,2,2.7,Tangerang,17.8,Ya,Tidak,562.93
+140.5,3,1,1,2.1,Jakarta Utara,4.9,Ya,Tidak,1129.6
+99.2,2,1,1,18.2,Jakarta Timur,9.9,Tidak,Ya,995.43
+140.8,3,4,1,50.0,Jakarta Utara,6.9,Tidak,Tidak,922.98
+136.3,3,3,1,2.8,Tangerang,17.7,Ya,Tidak,908.58
+95.3,3,1,3,10.1,Jakarta Utara,6.6,Ya,Tidak,1075.35
+144.0,3,2,1,8.9,Jakarta Utara,12.9,Ya,Tidak,983.58
+60.0,4,3,1,14.4,Tangerang,22.7,Ya,Ya,781.13
+83.2,4,2,1,0.6,Jakarta Selatan,6.7,Tidak,Tidak,1132.65
+120.9,2,2,1,8.3,Jakarta Utara,2.9,Ya,Ya,1200.02
+88.4,4,1,3,31.5,Jakarta Pusat,3.7,Ya,Tidak,1212.49
+88.0,4,2,1,9.6,Jakarta Pusat,4.0,Ya,Ya,1442.17
+154.2,3,2,1,27.1,Tangerang,24.4,Tidak,Ya,804.36
+160.6,3,2,2,11.9,Bekasi,21.8,Ya,Ya,923.42
+82.5,4,1,1,4.0,Bekasi,24.7,Tidak,Ya,693.81
+175.6,5,1,1,9.6,Jakarta Utara,17.3,Tidak,Tidak,950.82
+139.9,4,3,1,4.6,Jakarta Barat,17.3,Ya,Ya,1401.08
+60.0,4,3,1,2.0,Jakarta Utara,7.5,Ya,Tidak,882.48
+114.8,4,2,2,8.6,Jakarta Selatan,5.8,Ya,Ya,1704.53
+118.3,3,2,1,0.2,Bekasi,6.1,Ya,Ya,745.52
+113.8,5,1,1,1.3,Depok,16.7,Tidak,Ya,1012.58
+135.9,4,1,1,0.6,Bogor,26.4,Ya,Tidak,661.74
+60.0,5,1,1,1.4,Jakarta Utara,7.5,Tidak,Ya,1206.29
+170.6,4,1,2,0.8,Bekasi,28.4,Ya,Tidak,840.69
+179.8,4,2,1,1.4,Jakarta Utara,11.2,Tidak,Tidak,1285.0
+114.1,3,3,1,7.3,Jakarta Pusat,5.5,Ya,Ya,1876.76
+81.2,4,2,2,3.9,Tangerang,36.5,Tidak,Ya,681.31
+60.0,4,1,1,13.7,Jakarta Timur,12.4,Ya,Ya,905.76
+60.0,5,4,1,4.0,Jakarta Selatan,3.6,Tidak,Tidak,1492.87
+110.5,3,1,1,8.9,Tangerang,17.6,Tidak,Tidak,660.85
+164.9,3,2,2,4.4,Jakarta Selatan,2.0,Ya,Ya,2022.14
+157.5,3,3,2,1.2,Depok,31.1,Ya,Tidak,833.06
+76.7,3,3,1,14.6,Jakarta Timur,18.4,Ya,Tidak,871.82
+74.7,4,3,1,0.3,Bekasi,32.1,Tidak,Tidak,590.39
+93.8,4,4,1,0.7,Jakarta Pusat,5.7,Tidak,Ya,1541.83
+110.1,4,3,3,1.6,Jakarta Selatan,5.7,Tidak,Ya,2085.2
+80.8,4,2,1,0.3,Jakarta Barat,6.9,Ya,Tidak,914.54
+181.7,2,2,1,0.2,Bogor,26.9,Ya,Tidak,642.31
+97.5,4,3,2,3.2,Jakarta Timur,10.6,Ya,Tidak,1099.93
+147.2,4,4,1,1.0,Jakarta Selatan,6.7,Ya,Tidak,1744.57
+125.0,4,2,1,3.5,Jakarta Utara,7.9,Ya,Tidak,1171.55
+224.0,4,2,1,18.1,Jakarta Pusat,1.6,Ya,Tidak,1924.55
+167.7,3,4,2,4.2,Jakarta Utara,16.2,Tidak,Ya,1515.29
+188.6,5,3,2,5.3,Bekasi,26.6,Ya,Tidak,1007.0
+121.5,5,2,1,4.5,Depok,19.4,Ya,Tidak,849.05
+98.5,3,2,2,10.6,Jakarta Pusat,3.5,Tidak,Tidak,1403.83
+176.8,3,1,1,1.9,Depok,29.8,Ya,Ya,1054.79
+158.5,5,1,1,3.7,Jakarta Timur,16.7,Ya,Tidak,1185.86
+116.2,5,2,1,3.7,Bekasi,17.0,Tidak,Ya,1100.97
+60.0,5,2,2,6.1,Jakarta Timur,10.0,Ya,Tidak,1138.13
+148.5,3,2,3,18.3,Bekasi,24.5,Ya,Tidak,719.55
+69.4,3,2,1,5.7,Jakarta Selatan,6.9,Ya,Tidak,955.78
+137.8,4,2,1,10.3,Bekasi,15.8,Ya,Tidak,801.34
+234.6,3,2,2,0.9,Jakarta Utara,8.4,Ya,Tidak,1589.63
+139.1,3,2,1,7.7,Jakarta Timur,16.7,Ya,Tidak,839.05
+126.7,3,2,1,13.5,Bogor,33.5,Ya,Tidak,548.44
+118.7,5,1,2,4.6,Depok,33.9,Ya,Tidak,821.24
+136.4,3,1,2,9.7,Jakarta Pusat,4.7,Tidak,Tidak,1599.11
+120.1,2,2,1,2.4,Depok,26.1,Ya,Ya,905.77
+77.8,4,2,1,5.6,Jakarta Selatan,6.9,Tidak,Tidak,1370.48
+108.0,3,2,1,20.4,Jakarta Pusat,5.6,Ya,Tidak,1175.55
+113.0,5,2,1,5.2,Tangerang,35.9,Ya,Tidak,615.05
+137.8,3,2,2,11.2,Jakarta Selatan,4.5,Ya,Tidak,1529.71
+164.0,3,3,1,3.4,Depok,39.9,Ya,Ya,1060.12
+151.3,3,3,1,2.0,Jakarta Barat,11.2,Tidak,Tidak,942.02
+60.0,3,2,1,7.5,Depok,20.5,Tidak,Tidak,465.43
+148.9,3,2,1,1.5,Jakarta Pusat,1.5,Ya,Tidak,1835.67
+152.3,4,3,3,0.1,Jakarta Selatan,2.6,Ya,Tidak,1971.33
+127.4,5,2,2,7.3,Bekasi,23.5,Ya,Ya,983.2
+213.4,5,2,1,2.9,Tangerang,23.0,Tidak,Tidak,937.85
+112.3,5,3,2,14.9,Jakarta Utara,10.8,Ya,Ya,1424.45
+104.9,3,2,2,14.4,Jakarta Barat,17.4,Tidak,Tidak,1059.95
+60.0,2,2,1,4.7,Depok,35.0,Ya,Tidak,324.71
+92.0,2,3,1,7.9,Depok,20.4,Ya,Tidak,520.64
+130.1,5,2,1,0.8,Bogor,27.7,Ya,Ya,754.84
+109.6,5,3,2,1.8,Jakarta Timur,13.5,Ya,Tidak,1259.45
+104.3,3,4,2,8.3,Depok,31.5,Tidak,Tidak,438.43
+69.1,4,2,1,2.2,Depok,25.1,Ya,Tidak,675.41
+147.0,3,2,1,3.2,Jakarta Timur,13.4,Ya,Tidak,1221.17
+98.8,4,2,1,3.1,Tangerang,31.2,Ya,Ya,847.44
+130.1,5,3,1,20.8,Jakarta Selatan,5.1,Tidak,Ya,2172.93
+166.1,4,3,2,0.3,Jakarta Utara,16.7,Ya,Tidak,1021.02
+83.6,3,4,1,20.4,Jakarta Barat,12.5,Tidak,Tidak,851.93
+119.7,4,2,3,10.0,Tangerang,25.7,Ya,Tidak,907.2
+73.7,2,2,2,5.3,Jakarta Timur,12.9,Ya,Ya,1263.77
+151.8,3,2,1,10.0,Bogor,30.0,Tidak,Ya,705.63
+143.4,6,2,3,0.4,Depok,24.1,Ya,Ya,1302.51
+105.3,5,2,1,12.4,Bekasi,36.0,Ya,Tidak,620.65
+60.0,3,2,1,3.2,Jakarta Timur,13.9,Ya,Tidak,768.57
+157.1,3,2,1,9.8,Jakarta Pusat,4.2,Ya,Tidak,1704.36
+151.5,3,2,2,0.9,Depok,9.3,Ya,Tidak,909.49
+96.8,4,2,1,12.0,Jakarta Pusat,5.9,Ya,Tidak,1395.49
+164.8,4,2,1,18.8,Bogor,23.0,Ya,Tidak,622.26
+136.3,3,2,1,14.0,Jakarta Utara,15.7,Tidak,Tidak,1117.7
+143.9,4,1,2,5.6,Depok,40.1,Ya,Tidak,650.28
+60.1,4,2,2,6.7,Jakarta Selatan,8.2,Ya,Tidak,1450.42
+123.4,2,2,1,6.5,Bekasi,36.9,Ya,Tidak,431.04
+60.0,4,3,1,14.6,Jakarta Selatan,6.9,Ya,Ya,1605.95
+154.1,3,2,1,13.8,Tangerang,13.0,Ya,Ya,1174.39
+146.5,5,1,1,7.3,Jakarta Timur,6.3,Tidak,Tidak,1112.66
+173.5,3,2,1,5.9,Jakarta Utara,13.8,Tidak,Ya,1293.5
+76.2,3,3,1,6.8,Depok,9.9,Ya,Ya,969.66
+116.7,3,2,3,10.6,Jakarta Pusat,7.1,Ya,Ya,2123.68
+126.9,3,2,1,2.1,Jakarta Utara,14.3,Ya,Tidak,1185.22
+122.6,3,2,2,1.9,Tangerang,18.1,Ya,Tidak,967.32
+152.3,4,2,1,6.5,Bogor,1.5,Ya,Tidak,799.86
+60.0,5,2,2,7.3,Tangerang,26.7,Ya,Tidak,735.65
+164.7,3,2,2,3.3,Bogor,26.9,Ya,Tidak,626.71
+118.0,4,3,2,18.9,Jakarta Timur,16.7,Ya,Ya,1457.17
+152.6,3,1,2,0.6,Bekasi,7.4,Ya,Tidak,859.01
+110.3,2,3,2,4.6,Tangerang,39.1,Tidak,Ya,929.56
+148.9,5,4,2,1.1,Jakarta Barat,11.0,Ya,Tidak,1467.21
+200.3,3,2,1,16.8,Tangerang,41.2,Ya,Tidak,872.61
+142.3,2,2,1,23.8,Jakarta Pusat,3.0,Tidak,Tidak,1499.04
+73.7,5,3,2,6.2,Jakarta Timur,10.5,Ya,Tidak,996.25
+112.6,3,2,2,18.6,Bekasi,23.4,Ya,Tidak,561.63
+125.0,4,2,2,2.0,Jakarta Utara,15.5,Ya,Tidak,1203.96
+158.0,3,2,1,2.4,Tangerang,31.2,Ya,Tidak,822.78
+127.3,5,3,1,3.9,Jakarta Barat,12.7,Ya,Tidak,1095.19
+141.0,4,2,2,4.4,Bekasi,31.5,Ya,Ya,901.01
+131.8,5,2,1,1.6,Depok,28.6,Ya,Ya,1008.26
+111.8,6,2,2,4.6,Tangerang,10.4,Ya,Ya,1145.04
+153.8,6,1,1,2.0,Bekasi,23.6,Ya,Tidak,806.97
+167.5,2,2,1,11.1,Jakarta Selatan,3.2,Ya,Tidak,1685.89
+75.1,3,2,2,9.5,Jakarta Selatan,6.0,Ya,Tidak,1263.51
+103.1,4,1,2,15.5,Depok,25.4,Ya,Ya,852.27
+103.0,4,2,1,4.8,Jakarta Timur,12.2,Ya,Tidak,866.58
+166.7,3,3,1,2.7,Jakarta Timur,8.3,Ya,Tidak,1196.61
+97.8,4,2,2,8.0,Jakarta Pusat,8.1,Ya,Tidak,1618.77
