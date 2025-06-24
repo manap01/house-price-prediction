@@ -35,17 +35,43 @@ def create_directories():
 
 def generate_summary_report(data, results_df, final_metrics):
     """
-    Generate summary report
+    Generate summary report dengan format yang lebih baik
     """
-    # Handle case where final_metrics might be None
+    # Format dataset statistics
+    stats = data.describe().transpose()
+    stats_str = ""
+    for index, row in stats.iterrows():
+        stats_str += f"- **{index}**:\n"
+        stats_str += f"  - Count: {row['count']:.2f}\n"
+        stats_str += f"  - Mean: {row['mean']:.2f}\n"
+        stats_str += f"  - Std: {row['std']:.2f}\n"
+        stats_str += f"  - Min: {row['min']:.2f}\n"
+        stats_str += f"  - 25%: {row['25%']:.2f}\n"
+        stats_str += f"  - 50%: {row['50%']:.2f}\n"
+        stats_str += f"  - 75%: {row['75%']:.2f}\n"
+        stats_str += f"  - Max: {row['max']:.2f}\n\n"
+    
+    # Format model comparison
+    if not results_df.empty:
+        results_str = "| Model | CV R² Mean | CV R² Std |\n"
+        results_str += "|-------|------------|-----------|\n"
+        for index, row in results_df.iterrows():
+            results_str += f"| {index} | {row['CV R² Mean']:.4f} | {row['CV R² Std']:.4f} |\n"
+    else:
+        results_str = "Tidak ada hasil evaluasi model"
+    
+    # Format best model metrics
     metrics_section = ""
     if final_metrics is not None:
         metrics_section = f"""
 **Model**: {final_metrics['Model']}
-- **R² Score**: {final_metrics['R²']:.4f}
-- **RMSE**: {final_metrics['RMSE']:.2f} juta IDR
-- **MAE**: {final_metrics['MAE']:.2f} juta IDR
-- **MAPE**: {final_metrics['MAPE (%)']:.2f}%
+
+| Metric | Value |
+|--------|-------|
+| **R² Score** | {final_metrics['R²']:.4f} |
+| **RMSE** | {final_metrics['RMSE']:.2f} juta IDR |
+| **MAE** | {final_metrics['MAE']:.2f} juta IDR |
+| **MAPE** | {final_metrics['MAPE (%)']:.2f}% |
 """
     else:
         metrics_section = "\n**Tidak ada hasil model terbaik yang tersedia**\n"
@@ -61,10 +87,10 @@ Proyek machine learning untuk memprediksi harga rumah berdasarkan berbagai fitur
 - **Target Variable**: Harga rumah (dalam jutaan IDR)
 
 ### Dataset Statistics
-{data.describe().to_string()}
+{stats_str}
 
 ## Model Performance Comparison
-{results_df.to_string() if not results_df.empty else "Tidak ada hasil evaluasi model"}
+{results_str}
 
 ## Best Model Results
 {metrics_section}
