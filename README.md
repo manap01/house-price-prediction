@@ -107,51 +107,47 @@ Dataset dibuat secara sintetis menggunakan Python dengan karakteristik yang real
 
 *Note: Hasil dapat bervariasi tergantung pada data dan parameter yang digunakan*
 
-## 📈 Hasil Visualisasi dari Main.py
+## 📈 Hasil Visualisasi
 
-Setelah menjalankan `python main.py`, proyek ini menghasilkan 8 visualisasi komprehensif yang tersimpan di folder `reports/figures/`:
+Setelah menjalankan `python main.py`, proyek menghasilkan 8 visualisasi analisis:
+
+<div align="center">
 
 ### 1. Correlation Matrix
-![Correlation Matrix](reports/figures/correlation_matrix.png)
-*Heatmap korelasi antar fitur untuk identifikasi multicollinearity dan hubungan dengan target variable*
+<img src="reports/figures/correlation_matrix.png" width="400">
+
+*Heatmap korelasi antar fitur untuk identifikasi multicollinearity*
 
 ### 2. Feature Importance Analysis
-![Feature Importance](reports/figures/feature_importance.png)
-*Ranking kepentingan fitur individual dalam prediksi harga rumah*
+<img src="reports/figures/feature_importance.png" width="400">
 
-![Model Feature Importance](reports/figures/model_feature_importance.png)
-*Perbandingan feature importance across different models*
+*Ranking kepentingan fitur individual*
 
-### 3. Model Performance Comparison
-![Model Comparison](reports/figures/model_comparison.png)
-*Perbandingan performa semua model menggunakan multiple metrics (R², RMSE, MAE)*
+<img src="reports/figures/model_feature_importance.png" width="400">
+
+*Perbandingan feature importance antar model*
+
+### 3. Model Performance
+<img src="reports/figures/model_comparison.png" width="400">
+
+*Perbandingan performa model (R², RMSE, MAE)*
 
 ### 4. Error Analysis
-![Error Analysis](reports/figures/error_analysis.png)
-*Analisis distribusi error, outliers, dan residual patterns*
+<img src="reports/figures/error_analysis.png" width="400">
 
-### 5. Gradient Boosting Model Analysis (Best Model)
-![Gradient Boosting Predictions](reports/figures/gradient_boosting_tuned_predictions.png)
-*Actual vs Predicted values scatter plot untuk model terbaik*
+*Distribusi error dan outlier patterns*
 
-![Gradient Boosting Residuals](reports/figures/gradient_boosting_tuned_residuals.png)
-*Residual analysis untuk evaluasi model performance dan bias detection*
+### 5. Best Model Analysis (Gradient Boosting)
+<img src="reports/figures/gradient_boosting_tuned_predictions.png" width="350">
+<img src="reports/figures/gradient_boosting_tuned_residuals.png" width="350">
 
-![Gradient Boosting Learning Curves](reports/figures/gradient_boosting_tuned_learning_curves.png)
-*Learning curves untuk bias-variance analysis dan overfitting detection*
+*Actual vs Predicted & Residual Analysis*
 
-### Visualisasi Lengkap yang Dihasilkan:
-```
-reports/figures/
-├── correlation_matrix.png
-├── error_analysis.png
-├── feature_importance.png
-├── gradient_boosting_tuned_learning_curves.png
-├── gradient_boosting_tuned_predictions.png
-├── gradient_boosting_tuned_residuals.png
-├── model_comparison.png
-└── model_feature_importance.png
-```
+<img src="reports/figures/gradient_boosting_tuned_learning_curves.png" width="400">
+
+*Learning curves untuk bias-variance analysis*
+
+</div>
 
 ## 🛠️ Teknologi yang Digunakan
 
@@ -319,7 +315,7 @@ Proyek ini dikembangkan untuk keperluan edukasi dan portfolio. Silakan gunakan d
 **Hanif Maulana Arrasyid**
 - 🐙 GitHub: [@manap01](https://github.com/manap01)
 - 📧 Email: hanifmaulanaarrasyid@gmail.com
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/hanif-maulana-arrasyid](https://www.linkedin.com/in/hanif-maulana-arrasyid-ab8a36291/))
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/hanif-maulana-arrasyid)
 - 🌐 Portfolio: [View my work](https://github.com/manap01)
 
 ## 🤝 Kontribusi
